@@ -20,21 +20,21 @@ It is easy to work with simple polynomials in n, but when the time complexity in
 functions in ascending order of rate of growth. Any function can be given as a Big O of any other function that appears later in this table.
 
 | # | Name | Function |
-|-|-|
-| 1. | Any constant    | Constant |
-| 2. | `logn`          | Logarithmic |
-| 3. | `$${log^2n}$$`        | Log-square |
-| 4. | `$$\sqrt{n}$$`  | Root-n |
-| 5. | `n`             | Linear |
-| 6. | `nlogn`         | Linearithmic |
-| 1. | `n` |  |
-| 1. |  |  |
-| 1. |  |  |
-| 1. |  |  |
-| 1. |  |  |
-| 1. |  |  |
-<br>
-<br>
+|-|-|-|
+| 1.  | Any constant | Constant |
+| 2.  | logn | Logarithmic |
+| 3.  | $${log^2n}$$ | Log-square |
+| 4.  | $$\sqrt{n}$$ | Root-n |
+| 5.  | n | Linear |
+| 6.  | nlogn | Linearithmic |
+| 7.  | $${n^2} | Quadratic |
+| 8.  | $${n^3} | Cubic |
+| 9.  | $${n^4} | Quartic |
+| 10. | $${2^n} | Exponential |
+| 11. | $${e^n} | Exponential |
+| 12. | n! | n-Factorial |
+
+<br><br> 7.
 <br>
 <br>
 <br>
