@@ -15,7 +15,6 @@ public class BigONestedLoopWithSubtraction {
         int sum = 0; //O(1)
         double pie = 3.14; //O(1)
 
-
         for (int var = n; var >= 1; var = var - 3) { // O(n/3)
             System.out.println("Pie: " + pie); // O(n/3)
 

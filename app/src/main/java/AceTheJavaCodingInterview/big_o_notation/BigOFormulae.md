@@ -3,7 +3,7 @@
 ## Big O Notation
 
 <br>1. A function `f(n)`, is considered `O(g(n))` (read as big oh of `g(n)`) if there exists some positive real constant `c` and an integer `n_0 > 0`, such that the following inequality holds for all n >= n_0 <br>
-    `f(n) <= cg(n)`
+`f(n) <= cg(n)`
 
 <br>2. People tend to write `f(n) = O(g(n))`, which isn’t technically accurate. A lot of functions can satisfy the `O(g(n))` conditions. Therefore, `O(g(n))` is a set of functions, and it is okay to say that `f(n)` belongs to `O(g(n))`.
 
@@ -14,15 +14,16 @@ Algorithm A and B both have running time `O(n)`. The execution time for these al
 
 <br> 5. Simplified asymptotic analysis
 Once we have obtained the time complexity of an algorithm by counting the number of primitive operations, we can arrive at the Big O notation for the algorithm simply by:
-   - Dropping the multiplicative constants with all terms.
-   - Dropping all but the highest order term.
-   - Therefore, `n^2 + 2n + 1` is `O(n^2)` while `n^5 + 4n^3 + 2n + 43` is `O(n^5)`.
 
-The constant coefficients have become insignificant in the Big O notation. Recall that these constants represent the number of primitive operations on a given line of code. This means that, while analyzing code, counting a line of code  
-     as contributing 4 primitive operations is as good as counting it as 1 primitive operation. What matters is correctly counting the number of times each line of code is repeated.
+- Dropping the multiplicative constants with all terms.
+- Dropping all but the highest order term.
+- Therefore, `n^2 + 2n + 1` is `O(n^2)` while `n^5 + 4n^3 + 2n + 43` is `O(n^5)`.
+
+The constant coefficients have become insignificant in the Big O notation. Recall that these constants represent the number of primitive operations on a given line of code. This means that, while analyzing code, counting a line of code
+as contributing 4 primitive operations is as good as counting it as 1 primitive operation. What matters is correctly counting the number of times each line of code is repeated.
 
 <br><br> 6. A comparison of some common functions
-It is easy to work with simple polynomials in n, but when the time complexity involves other types of functions like log(), you may find it hard to identify the “highest order term”. The following table lists some commonly encountered 
+It is easy to work with simple polynomials in n, but when the time complexity involves other types of functions like log(), you may find it hard to identify the “highest order term”. The following table lists some commonly encountered
 functions in ascending order of rate of growth. Any function can be given as a Big O of any other function that appears later in this table.
 
 | # | Name | Function |
@@ -42,13 +43,15 @@ functions in ascending order of rate of growth. Any function can be given as a B
 ||||
 
 <br><br> 7. General Tips
- - Every time a list or array gets iterated over `c×length` times, it is most likely in `O(n)` time.
- - When you see a problem where the number of elements in the problem space gets halved each time, it will most probably be in `O(log n)` runtime.
- - Whenever you have a single nested loop, the problem is most likely in quadratic time. `O(n2)`.
 
-<br> 8. A loop statement that multiplies/divides the loop variable by a constant takes log_k(n) time because the loop runs that many times.
+- Every time a list or array gets iterated over `c×length` times, it is most likely in `O(n)` time.
+- When you see a problem where the number of elements in the problem space gets halved each time, it will most probably be in `O(log n)` runtime.
+- Whenever you have a single nested loop, the problem is most likely in quadratic time. `O(n2)`.
+- A loop statement that multiplies/divides the loop variable by a constant takes log_k(n) time because the loop runs that many times.
+- We don’t always add the time complexity of the inner loop. It depends. If the inner loop depends on the outer loop, then the complexity is added, and if the inner loop does not depend on the outer loop, then we multiply it.
 
 <br>
 <br>
 <br>
 <br>
+
