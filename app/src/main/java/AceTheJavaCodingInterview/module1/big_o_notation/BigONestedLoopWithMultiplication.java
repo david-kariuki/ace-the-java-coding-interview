@@ -6,7 +6,7 @@
  * @since 12/8/2022
  */
 
-package AceTheJavaCodingInterview.module_1.big_o_notation;
+package AceTheJavaCodingInterview.module1.big_o_notation;
 
 @SuppressWarnings("ALL")
 public class BigONestedLoopWithMultiplication {
