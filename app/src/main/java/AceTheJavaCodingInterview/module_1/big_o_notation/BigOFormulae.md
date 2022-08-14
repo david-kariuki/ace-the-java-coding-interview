@@ -49,6 +49,10 @@ functions in ascending order of rate of growth. Any function can be given as a B
 - Whenever you have a single nested loop, the problem is most likely in quadratic time. `O(n2)`.
 - A loop statement that multiplies/divides the loop variable by a constant takes log_k(n) time because the loop runs that many times.
 - We don’t always add the time complexity of the inner loop. It depends. If the inner loop depends on the outer loop, then the complexity is added, and if the inner loop does not depend on the outer loop, then we multiply it.
+- `log(a)` + `log(b)` = `log(ab)`
+- An algorithm is said to be constant time (also written as `O(1)}` time) if the value of `T(n)` is bounded by a value that does not depend on the size of the input. For example, accessing any single element in an array takes constant time as only one operation has to be performed to locate it. In a similar manner, finding the minimal value in an array sorted in ascending order; it is the first element. However, finding the minimal value in an unordered array is not a constant time operation as scanning over each element in the array is needed in order to determine the minimal value. Hence it is a linear time operation, taking {\textstyle O(n)}{\textstyle O(n)} time. If the number of elements is known in advance and does not change, however, such an algorithm can still be said to run in constant time.
+- An algorithm is said to take logarithmic time when `T(n) =O(log n)`. Since `log_a(n)` `log_b(n)` are related by a constant multiplier, and such a multiplier is irrelevant to `big O` classification, the standard usage for logarithmic-time algorithms is `O(log n)` regardless of the base of the logarithm appearing in the expression of T.
+Algorithms taking logarithmic time are commonly found in operations on binary trees or when using binary search.
 
 <br>
 <br>

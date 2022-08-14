@@ -6,7 +6,7 @@
  * @since 11/8/2022
  */
 
-package AceTheJavaCodingInterview.big_o_notation;
+package AceTheJavaCodingInterview.module_1.big_o_notation;
 
 public class BigONestedLoopWithSubtraction {
 
