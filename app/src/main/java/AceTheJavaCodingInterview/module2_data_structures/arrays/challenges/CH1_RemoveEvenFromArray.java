@@ -1,5 +1,5 @@
 /**
- * CH1RemoveEvenFromArray Class
+ * CH1_RemoveEvenFromArray Class
  *
  * <p>
  *
@@ -9,7 +9,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
-public class CH1RemoveEvenFromArray {
+public class CH1_RemoveEvenFromArray {
 
   /**
    * Method to remove even numbers from array
