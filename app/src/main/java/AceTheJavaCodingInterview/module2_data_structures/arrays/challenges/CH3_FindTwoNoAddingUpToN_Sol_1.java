@@ -1,5 +1,5 @@
 /**
- * CH3_FindTwoNoAddingUpToN1 Class
+ * CH3_FindTwoNoAddingUpToN_Sol_1 Class
  *
  * <p>
  *
@@ -11,7 +11,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
-public class CH3_FindTwoNoAddingUpToN1 {
+public class CH3_FindTwoNoAddingUpToN_Sol_1 {
 
   /**
    * Main method
