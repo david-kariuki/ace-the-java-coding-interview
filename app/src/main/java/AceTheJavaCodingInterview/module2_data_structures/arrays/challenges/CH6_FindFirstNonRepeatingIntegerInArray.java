@@ -11,6 +11,8 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
+import AceTheJavaCodingInterview.module2_data_structures.utils.DataStructuresUtils;
+
 public class CH6_FindFirstNonRepeatingIntegerInArray {
 
   /**
@@ -22,7 +24,7 @@ public class CH6_FindFirstNonRepeatingIntegerInArray {
 
     int[] arr = {2, 54, 7, 2, 6, 54};
 
-    System.out.println("Array: " + arrayToString(arr));
+    System.out.println("Array: " + DataStructuresUtils.arrayToString(arr));
 
     int unique = findFirstUnique(arr);
     System.out.print("First Unique in an Array: " + unique);
@@ -65,25 +67,5 @@ public class CH6_FindFirstNonRepeatingIntegerInArray {
     }
 
     return -1;
-  }
-
-  /**
-   * Method to convert array to string
-   *
-   * @param arr - int[]
-   */
-  @SuppressWarnings("StringConcatenationInLoop")
-  public static String arrayToString(int[] arr) {
-
-    if (arr.length > 0) {
-      String result = "";
-
-      for (int i = 0; i < arr.length; i++) {
-        result += arr[i] + ", ";
-      }
-      return result;
-    } else {
-      return "Empty Array!";
-    }
   }
 }

@@ -6,11 +6,12 @@
  * @note Given an array, return an array where each index stores the product of all numbers except
  *     the number on the index itself.
  * @author David Kariuki
- * @since /8/2022
+ * @since 16/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
-@SuppressWarnings("StringConcatenationInLoop")
+import AceTheJavaCodingInterview.module2_data_structures.utils.DataStructuresUtils;
+
 public class CH4_ArrayOFProductsOfAllElementsExceptItself {
 
   /**
@@ -22,11 +23,11 @@ public class CH4_ArrayOFProductsOfAllElementsExceptItself {
 
     int[] arr = {-1, 2, -3, 4, -5};
 
-    System.out.println("Array before product: " + arrayToString(arr));
+    System.out.println("Array before product: " + DataStructuresUtils.arrayToString(arr));
 
     int[] prodArray = findProduct(arr);
 
-    System.out.println("Array after product: " + arrayToString(prodArray));
+    System.out.println("Array after product: " + DataStructuresUtils.arrayToString(prodArray));
   }
 
   /**
@@ -82,22 +83,5 @@ public class CH4_ArrayOFProductsOfAllElementsExceptItself {
     }
 
     return result;
-  }
-
-  /**
-   * Method to convert array to string
-   *
-   * @param arr - int[]
-   */
-  public static String arrayToString(int[] arr) {
-    if (arr.length > 0) {
-      String result = "";
-      for (int i = 0; i < arr.length; i++) {
-        result += arr[i] + " ";
-      }
-      return result;
-    } else {
-      return "Empty Array!";
-    }
   }
 }

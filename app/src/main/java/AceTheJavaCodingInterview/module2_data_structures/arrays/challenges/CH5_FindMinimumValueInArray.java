@@ -5,7 +5,7 @@
  *
  * @note Given an array of size "n", can you find the minimum value in the array?
  * @author David Kariuki
- * @since /8/2022
+ * @since 16/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 

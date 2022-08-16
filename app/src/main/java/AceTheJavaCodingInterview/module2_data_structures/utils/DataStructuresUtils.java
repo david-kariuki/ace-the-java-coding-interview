@@ -2,7 +2,7 @@
  * Class with shared data structures utils
  *
  * @author David Kariuki
- * @since 16/08/2022
+ * @since 16/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.utils;
 

@@ -41,7 +41,7 @@ public class CH3_FindTwoNoAddingUpToN1 {
    * @param arr - int[]
    * @param n - Target sum
    */
-  public static int[] findSum(int[] arr, int n) {
+  private static int[] findSum(int[] arr, int n) {
 
     int[] result = new int[2]; // to store the pair of values.
 
