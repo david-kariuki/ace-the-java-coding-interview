@@ -9,7 +9,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
-import java.util.Arrays;
+import AceTheJavaCodingInterview.module2_data_structures.utils.DataStructuresUtils;
 
 public class CH5_FindMinimumValueInArray {
 
@@ -22,7 +22,12 @@ public class CH5_FindMinimumValueInArray {
 
     int[] arr = new int[] {30, 43, 55, 32, 12, 23, 4, 21, 21, 55, 67, 90, 32, 21};
 
-    System.out.println("Minimum in array : " + Arrays.toString(arr) + " is : " + findMinimum(arr));
+    System.out.println(
+        "Minimum in array : "
+            + DataStructuresUtils.arrayToString(arr)
+            + " "
+            + "is : "
+            + findMinimum(arr));
   }
 
   /**
@@ -30,8 +35,8 @@ public class CH5_FindMinimumValueInArray {
    *
    * <p>
    *
-   * @note Time Complexity - Since the entire list is iterated over once, this
-   * algorithm is in linear time - O(n)
+   * @note Time Complexity - Since the entire list is iterated over once, this algorithm is in
+   *     linear time - O(n)
    * @param arr - int[]
    */
   private static int findMinimum(int[] arr) {
