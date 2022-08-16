@@ -18,7 +18,11 @@ public class DataStructuresUtils {
     if (arr.length > 0) {
       String result = "[";
       for (int i = 0; i < arr.length; i++) {
-        result += arr[i] + ", ";
+        if (i != arr.length - 1) {
+          result += arr[i] + ", ";
+        } else {
+          result += arr[i];
+        }
       }
       return result + "]";
     } else {

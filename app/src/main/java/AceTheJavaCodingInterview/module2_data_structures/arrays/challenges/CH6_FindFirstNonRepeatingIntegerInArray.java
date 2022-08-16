@@ -7,7 +7,7 @@
  * Unique means the number does not repeat and appears only once in the
  * whole array.
  * @author David Kariuki
- * @since /8/2022
+ * @since 16/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
