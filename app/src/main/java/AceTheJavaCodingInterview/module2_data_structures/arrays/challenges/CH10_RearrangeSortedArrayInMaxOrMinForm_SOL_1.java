@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * CH10_RearrangeSortedArrayInMaxOrMinForm_SOL_1 Class
  *
  * <p>
  *
