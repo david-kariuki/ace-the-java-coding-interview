@@ -4,6 +4,8 @@
  * <p>
  *
  * @note Challenge 2: Merge Two Sorted Arrays
+ * Given an array and a number "n", find two numbers from the array that
+ * sums up to "n".
  * @author David Kariuki
  * @since 14/8/2022
  */

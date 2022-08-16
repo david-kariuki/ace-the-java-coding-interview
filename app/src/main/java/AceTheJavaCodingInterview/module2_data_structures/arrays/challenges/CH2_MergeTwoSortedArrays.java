@@ -4,6 +4,8 @@
  * <p>
  *
  * @note Challenge 2: Merge Two Sorted Arrays
+ * Given two sorted arrays, merge them into one array, which should also
+ * be sorted.
  * @author David Kariuki
  * @since 14/8/2022
  */
