@@ -9,8 +9,6 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
-import java.util.Arrays;
-
 public class CH2_FindTwoNoAddingUpToN {
 
   /**
@@ -20,38 +18,40 @@ public class CH2_FindTwoNoAddingUpToN {
    */
   public static void main(String[] args) {
 
-    int n = 27;
-    int[] arr = new int[] {1, 21, 3, 14, 5, 60, 7, 6};
+    int n = 9;
+    int[] arr1 = {2, 4, 5, 7, 8};
 
-    System.out.println("\n" + Arrays.toString(findSum(arr, n)));
+    int[] arr2 = findSum(arr1, n);
+    int num1 = arr2[0];
+    int num2 = arr2[1];
+
+    if ((num1 + num2) != n) System.out.println("Not Found");
+    else {
+      System.out.println("Number 1 = " + num1);
+      System.out.println("Number 2 = " + num2);
+      System.out.println("Sum = " + (n));
+    }
   }
 
-  private static int[] findSum(int[] arr, int n) {
+  /**
+   * Method to find the sum of two index elements adding up to n and the elements
+   *
+   * @param arr - int[]
+   * @param n - Target sum
+   */
+  public static int[] findSum(int[] arr, int n) {
 
-    int[] result = new int[2];
+    int[] result = new int[2]; // to store the pair of values.
 
-    int i = 0, length = arr.length, k = 0;
-
-    while (i < length) {
-
-      System.out.println("i : " + i);
-
-      for (int j = 0; j < length; j++) {
-
-        System.out.println("j : " + i);
-
-        if (j != i) {
-          if ((arr[j] + arr[i]) == n) {
-
-            result[k++] = arr[i];
-            result[k++] = arr[j + 1];
-          }
+    for (int i = 0; i < arr.length; i++) { // traverse arr
+      for (int j = i + 1; j < arr.length; j++) { // traverse arr again
+        if (arr[i] + arr[j] == n) { // find where sum is equal to n
+          result[0] = arr[i];
+          result[1] = arr[j];
+          return result; // return the pair of numbers
         }
-
-        i++;
       }
     }
-
-    return result;
+    return arr;
   }
 }
