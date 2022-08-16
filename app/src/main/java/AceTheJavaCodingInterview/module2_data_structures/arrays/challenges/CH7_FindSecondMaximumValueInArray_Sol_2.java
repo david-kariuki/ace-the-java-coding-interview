@@ -1,5 +1,5 @@
 /**
- * CH7_FindSecondMaximumValueInArray_Sol_1 Class
+ * CH7_FindSecondMaximumValueInArray_Sol_2 Class
  *
  * <p>
  *
