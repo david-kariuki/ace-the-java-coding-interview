@@ -1,5 +1,5 @@
 /**
- * CH2_MergeTwoSortedArrays Class
+ * CH2_FindTwoNoAddingUpToN1 Class
  *
  * <p>
  *
@@ -9,7 +9,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
 
-public class CH2_FindTwoNoAddingUpToN {
+public class CH2_FindTwoNoAddingUpToN1 {
 
   /**
    * Main method
