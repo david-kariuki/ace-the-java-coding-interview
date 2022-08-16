@@ -1,0 +1,87 @@
+/**
+ * CH6_FindFirstNonRepeatingIntegerInArray Class
+ *
+ * <p>
+ *
+ * @note
+ * @author David Kariuki
+ * @since /8/2022
+ */
+package AceTheJavaCodingInterview.module2_data_structures.arrays.challenges;
+
+public class CH6_FindFirstNonRepeatingIntegerInArray {
+
+  /**
+   * Main method
+   *
+   * @param args - String[]
+   */
+  public static void main(String[] args) {
+
+    int[] arr = {2, 54, 7, 2, 6, 54};
+
+    System.out.println("Array: " + arrayToString(arr));
+
+    int unique = findFirstUnique(arr);
+    System.out.print("First Unique in an Array: " + unique);
+  }
+
+  /**
+   * Method to find first unique element
+   *
+   * <p>
+   *
+   * @note The time complexity of this solution is O(n^2) since the entire list is iterated for each
+   *     element n*n times.
+   * @param arr - int[]
+   */
+  public static int findFirstUnique(int[] arr) {
+
+    // Inside Inner Loop Check Each index of outerLoop If it is repeated in
+    // array. If it's not repeated then return this as first unique Integer
+    boolean numRepeated = false;
+
+    // Traverse array
+    for (int i = 0; i < arr.length; i++) {
+
+      // Traverse array
+      for (int j = 0; j < arr.length; j++) {
+
+        if (i != j) {
+          if (arr[i] == arr[j]) {
+            numRepeated = true;
+            break;
+          } else {
+            numRepeated = false;
+          }
+        }
+      }
+
+      if (!numRepeated) {
+        return arr[i];
+      }
+    }
+
+    return -1;
+  }
+
+  /**
+   * Method to convert array to string
+   *
+   * @param arr - int[]
+   */
+  @SuppressWarnings("StringConcatenationInLoop")
+  public static String arrayToString(int[] arr) {
+
+    if (arr.length > 0) {
+      String result = "";
+
+      for (int i = 0; i < arr.length; i++) {
+        result += arr[i] + ", ";
+      }
+      return result;
+    } else {
+      return "Empty Array!";
+    }
+  }
+}
