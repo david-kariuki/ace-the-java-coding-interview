@@ -4,7 +4,7 @@
  * @since 14/8/2022
  */
 
-package AceTheJavaCodingInterview.module1.big_o_notation.problem_sets;
+package AceTheJavaCodingInterview.module1_big_o_notation.problem_sets;
 
 @SuppressWarnings("unused")
 public class ProblemSet1 {
