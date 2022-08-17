@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Find Maximum in Sliding Window">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/BinarySearchOnSortedArray_Iterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/BinarySearchOnSortedArray_Iterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/BinarySearchOnSortedArray_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/BinarySearchOnSortedArray_Recursive.java" afterDir="false" />
-    </list>
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="Config">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Search Rotated Array class template" />
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="Config" />
+    <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,26 +73,6 @@
         </option>
       </RecentBranches>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="6" end1="8" start2="6" end2="12" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="10" end1="13" start2="14" end2="16" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="14" end1="14" start2="17" end2="20" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="81" end1="81" start2="87" end2="107" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="99" end1="113" start2="125" end2="140" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="114" end1="115" start2="141" end2="142" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="117" end1="117" start2="144" end2="145" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="120" end1="121" start2="148" end2="162" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="134" end1="134" start2="175" end2="188" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="157" end1="157" start2="211" end2="213" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="171" end1="172" start2="227" end2="228" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="194" end1="195" start2="250" end2="287" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
-        <range start1="213" end1="213" start2="305" end2="307" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="214" end1="216" start2="308" end2="310" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-      </ranges>
-    </file>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="89yls38e" />
@@ -224,7 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660052882094</updated>
       <workItem from="1660728773037" duration="256000" />
-      <workItem from="1660729074231" duration="6540000" />
+      <workItem from="1660729074231" duration="7414000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <created>1660052967983</created>
@@ -290,7 +259,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660738335342</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Search Rotated Array class template">
+      <created>1660746341676</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746341676</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Config">
+      <created>1660746346838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746346838</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minor changes">
+      <created>1660746352289</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746352289</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -311,10 +301,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix merge conflicts" />
     <MESSAGE value="Solution Review: Find the Sum of Maximum Sum Subarray" />
-    <MESSAGE value="Config" />
     <MESSAGE value="Implement Binary Search on a Sorted Array" />
     <MESSAGE value="Find Maximum in Sliding Window" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find Maximum in Sliding Window" />
+    <MESSAGE value="Search Rotated Array class template" />
+    <MESSAGE value="Config" />
+    <MESSAGE value="Minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
