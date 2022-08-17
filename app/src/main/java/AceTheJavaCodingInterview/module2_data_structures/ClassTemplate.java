@@ -3,7 +3,7 @@
  *
  * <p>
  *
- * @note
+ * @question
  * @author David Kariuki
  * @since /8/2022
  */

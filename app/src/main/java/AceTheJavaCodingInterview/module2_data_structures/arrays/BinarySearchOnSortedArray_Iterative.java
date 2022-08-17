@@ -7,7 +7,7 @@
  *     value, target. If the target exists in the array, return its index. If the target does not
  *     exist, then return -1. This class uses Iteration.
  * @author David Kariuki
- * @since /8/2022
+ * @since 17/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 

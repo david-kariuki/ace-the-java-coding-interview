@@ -8,7 +8,7 @@
  *     exist, then return -1.
  *     This class uses Recursion.
  * @author David Kariuki
- * @since /8/2022
+ * @since 17/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
