@@ -5,7 +5,7 @@
  *
  * @question We are given an array of integers, nums, sorted in ascending order, and an integer
  *     value, target. If the target exists in the array, return its index. If the target does not
- *     exist, then return -1.
+ *     exist, then return -1. This class uses Iteration.
  * @author David Kariuki
  * @since /8/2022
  */
@@ -30,7 +30,8 @@ public class BinarySearchOnSortedArray_Iterative {
    * <p>
    *
    * @note Time complexity - The time complexity of this solution is logarithmic, O(log n)
-   * @note Space complexity - The space complexity of this solution is constant, O(1).
+   * @note Space complexity - The space complexity of this solution is logarithmic, O(log n) because
+   *     the recursive approach consumes memory on the stack.
    * @param nums - int[]
    * @param target - int
    * @return int
