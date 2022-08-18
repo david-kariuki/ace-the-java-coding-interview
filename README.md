@@ -10,19 +10,12 @@ Java project to learn advanced Data Structures and Algorithms
 ### 1. Complexity Problems <br>
     - Introduction to Asymptotic Analysis and Big O
     - Challenge 1: Big (O) of Nested Loop with Addition
-    - Solution Review: Big O of a Nested Loop with Addition
     - Challenge 2: Big (O) of Nested Loop with Subtraction
-    - Solution Review: Big O of a Nested Loop with Subtraction
     - Challenge 3: Big O of Nested Loop with Multiplication
-    - Solution Review: Big O of Nested Loop with Multiplication
     - Challenge 4: Nested Loop with Multiplication (Basic)
-    - Solution Review: Nested Loop with Multiplication (Basic)
     - Challenge 5: Nested Loop with Multiplication (Intermediate)
-    - Solution Review: Nested Loop with Multiplication (Intermediate)
     - Challenge 6: Nested Loop with Multiplication (Advanced)
-    - Solution Review: Nested Loop with Multiplication (Advanced)
     - Challenge 7: Nested Loop with Multiplication (Pro)
-    - Solution Review: Nested Loop with Multiplication (Pro)
     - Problem Sets
     - Complexity Interview Questions
     - Cheat Sheet
