@@ -8,7 +8,7 @@
  *     rotated by some arbitrary number. Search the target in this array. If the target does not
  *     exist then return -1.
  * @author David Kariuki
- * @since /8/2022
+ * @since 18/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search;
 
