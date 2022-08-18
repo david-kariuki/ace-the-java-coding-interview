@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/StockBuySellToMaximizeProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tupples/Tuple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
@@ -125,6 +124,7 @@
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
@@ -224,7 +224,7 @@
       <updated>1660052882094</updated>
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
-      <workItem from="1660802034664" duration="14922000" />
+      <workItem from="1660802034664" duration="17041000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <created>1660052967983</created>
@@ -382,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660825944818</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="chore: config&#10;&#10;add project configuration">
+      <created>1660827192732</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1660827192732</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -404,7 +411,6 @@
     <option name="CODE_SMELLS_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;Closes #38" />
     <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes david-kariuki/AceTheJavaCodingInterview/#38" />
     <MESSAGE value="feat($location): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
@@ -429,7 +435,8 @@
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high Index of an element in a sorted array" />
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
     <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
+    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
