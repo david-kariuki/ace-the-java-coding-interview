@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Search Rotated Array class template" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="Config" />
+    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;Change configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Iteratively.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Iteratively.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Recursive.java" afterDir="false" />
+    </list>
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="Refactor directories" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +54,13 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="David Kariuki (DK) &lt;dkaris.k@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -100,7 +114,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview",
+    "last_opened_file_path": "E:/Dev/Projects/Learning/Java/AceTheJavaCodingInterview/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -109,18 +123,34 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMaximumInSlidingWindow">
-    <configuration name="BinarySearchOnSortedArray_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.BinarySearchOnSortedArray_Recursive" />
+  <component name="RunManager" selected="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.SearchRotatedArray_Iteratively">
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaximumInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
+    <configuration name="SearchRotatedArray_Iteratively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.SearchRotatedArray_Iteratively" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,8 +207,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMaximumInSlidingWindow" />
-        <item itemvalue="Application.BinarySearchOnSortedArray_Recursive" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.SearchRotatedArray_Iteratively" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
         <item itemvalue="Application.CH11_FindTheSumOfMaximumSumSubarray" />
         <item itemvalue="Gradle./home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" />
       </list>
@@ -193,7 +224,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660052882094</updated>
       <workItem from="1660728773037" duration="256000" />
-      <workItem from="1660729074231" duration="7414000" />
+      <workItem from="1660729074231" duration="7457000" />
+      <workItem from="1660802034664" duration="7165000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <created>1660052967983</created>
@@ -280,7 +312,43 @@
       <option name="project" value="LOCAL" />
       <updated>1660746352289</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Config">
+      <created>1660746395939</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746395939</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Search a Rotated Array">
+      <created>1660804802077</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804802077</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refactoring">
+      <changelist id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="Refactor" />
+      <created>1660804883801</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804883801</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactor directories">
+      <created>1660804900584</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804900584</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38">
+      <created>1660808956910</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660808956910</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -299,14 +367,36 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix merge conflicts" />
-    <MESSAGE value="Solution Review: Find the Sum of Maximum Sum Subarray" />
-    <MESSAGE value="Implement Binary Search on a Sorted Array" />
-    <MESSAGE value="Find Maximum in Sliding Window" />
-    <MESSAGE value="Search Rotated Array class template" />
-    <MESSAGE value="Config" />
-    <MESSAGE value="Minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
+    <option name="CODE_SMELLS_PROFILE" value="Project Default" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays." />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;iven three integer arrays sorted in ascending order, return the smallest number found in all three arrays." />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;given three integer arrays sorted in ascending order, return the smallest number found in all three arrays.&#10;&#10;#20" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays.&#10;&#10;Closes #38" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays. Closes #38" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays. &#10;&#10;Closes #38" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;Closes #38" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes david-kariuki/AceTheJavaCodingInterview/#38" />
+    <MESSAGE value="feat($location): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="ci: config&#10;&#10;Configuration" />
+    <MESSAGE value="chore: config&#10;Configuration" />
+    <MESSAGE value="&#10;chore: config&#10;&#10;Configuration" />
+    <MESSAGE value="chore: config&#10;&#10;configuration" />
+    <MESSAGE value="chore(files): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore($rootScope): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore($rootscope): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore(): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore: config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;config" />
+    <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;Config" />
+    <MESSAGE value="chore: config&#10;&#10;Configuration" />
+    <MESSAGE value="chore: config&#10;&#10;Change configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;Change configuration" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
