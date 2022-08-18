@@ -14,7 +14,7 @@ public class DataStructuresUtils {
    * @param arr - int[]
    */
   @SuppressWarnings("StringConcatenationInLoop")
-  public static String arrayToString(int[] arr) {
+  public static String arrayToString(final int[] arr) {
     if (arr.length > 0) {
       String result = "[";
       for (int i = 0; i < arr.length; i++) {
@@ -28,5 +28,23 @@ public class DataStructuresUtils {
     } else {
       return "Empty Array!";
     }
+  }
+
+  /**
+   * Method to print out array elements
+   *
+   * @param arr - int[]
+   */
+  public static void printOutArray(final int[] arr) {
+    System.out.println(arrayToString(arr) + "\n");
+  }
+
+  /**
+   * Method to print out array elements
+   *
+   * @param arr - int[]
+   */
+  public static void printOutArray(final int[] arr, final String message) {
+    System.out.println(message + arrayToString(arr) + "\n");
   }
 }
