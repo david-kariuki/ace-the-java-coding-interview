@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Big O Notation" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="Config" />
+    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/StockBuySellToMaximizeProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tupples/Tuple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;Perform minor refactoring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +51,16 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="David Kariuki (DK) &lt;dkaris.k@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -89,18 +102,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Project.color&quot;: &quot;1c014d&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Project.color": "1c014d",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "E:/Dev/Projects/Noti/mobile_backend",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search" />
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray">
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchRotatedArray_Iteratively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.SearchRotatedArray_Iteratively" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="/home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -125,29 +207,194 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle./home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.SearchRotatedArray_Iteratively" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6b77ca27-6f30-43a4-8985-67d4c6b01ef0" name="Changes" comment="" />
+      <changelist id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Fix merge conflicts" />
       <created>1660052882094</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660052882094</updated>
+      <workItem from="1660728773037" duration="256000" />
+      <workItem from="1660729074231" duration="7457000" />
+      <workItem from="1660802034664" duration="17041000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
-      <changelist id="f5850cc5-1f2f-4112-802f-db88e8077dda" name="Config" comment="Config" />
       <created>1660052967983</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1660052967983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Config">
+      <created>1660717150804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660717150804</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix merge conflicts">
+      <created>1660717311167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660717311167</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solution Review: Find the Sum of Maximum Sum Subarray">
+      <created>1660730366062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660730366062</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Config">
+      <created>1660730388165</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660730388165</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implement Binary Search on a Sorted Array">
+      <created>1660735878190</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660735878190</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implement Binary Search on a Sorted Array">
+      <created>1660736817554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660736817554</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Minor changes">
+      <changelist id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
+      <created>1660736845302</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660736845302</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Find Maximum in Sliding Window">
+      <created>1660738335342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660738335342</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Search Rotated Array class template">
+      <created>1660746341676</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746341676</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Config">
+      <created>1660746346838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746346838</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minor changes">
+      <created>1660746352289</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746352289</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Config">
+      <created>1660746395939</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746395939</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Search a Rotated Array">
+      <created>1660804802077</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804802077</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refactoring">
+      <changelist id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="Refactor" />
+      <created>1660804883801</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804883801</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactor directories">
+      <created>1660804900584</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660804900584</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38">
+      <created>1660808956910</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660808956910</updated>
+    </task>
+    <task id="LOCAL-00018" summary="chore: config&#10;&#10;Update configuration">
+      <created>1660809689124</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660809689124</updated>
+    </task>
+    <task id="LOCAL-00019" summary="refactor: refactor&#10;&#10;Perform minor refactoring">
+      <created>1660809806149</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1660809806149</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: add print methods&#10;&#10;Add methods to print out arrays differently">
+      <created>1660811950180</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660811950180</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array">
+      <created>1660825875479</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1660825875479</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array">
+      <created>1660825944818</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1660825944818</updated>
+    </task>
+    <task id="LOCAL-00023" summary="chore: config&#10;&#10;add project configuration">
+      <created>1660827192732</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1660827192732</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -159,5 +406,43 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CODE_SMELLS_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes david-kariuki/AceTheJavaCodingInterview/#38" />
+    <MESSAGE value="feat($location): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <MESSAGE value="ci: config&#10;&#10;Configuration" />
+    <MESSAGE value="chore: config&#10;Configuration" />
+    <MESSAGE value="&#10;chore: config&#10;&#10;Configuration" />
+    <MESSAGE value="chore: config&#10;&#10;configuration" />
+    <MESSAGE value="chore(files): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore($rootScope): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore($rootscope): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore(): config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore: config&#10;&#10;configuration&#10;&#10;config" />
+    <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;config" />
+    <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;Config" />
+    <MESSAGE value="chore: config&#10;&#10;Configuration" />
+    <MESSAGE value="chore: config&#10;&#10;Change configuration" />
+    <MESSAGE value="chore: config&#10;&#10;Update configuration" />
+    <MESSAGE value="refactor: refactor&#10;&#10;Perform minor refactoring" />
+    <MESSAGE value="feat: add print methods&#10;&#10;Add methods to print out arrays differently" />
+    <MESSAGE value="feat: find low/high index&#10;&#10;find low/high Index of an element in a sorted array" />
+    <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
+    <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
+    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
