@@ -9,7 +9,7 @@
  * @author David Kariuki
  * @since 17/8/2022
  */
-package AceTheJavaCodingInterview.module2_data_structures.arrays;
+package AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search;
 
 public class BinarySearchOnSortedArray_Iterative {
 
