@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/StockBuySellToMaximizeProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tupples/Tuple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration" />
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="gitignore" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;Perform minor refactoring" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -388,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660827192732</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="chore: config&#10;&#10;add project configuration">
+      <created>1660854853711</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1660854853711</updated>
+    </task>
+    <task id="LOCAL-00025" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1660854872819</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1660854872819</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -410,7 +420,6 @@
     <option name="CODE_SMELLS_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes david-kariuki/AceTheJavaCodingInterview/#38" />
     <MESSAGE value="feat($location): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
@@ -435,7 +444,8 @@
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
     <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
+    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
