@@ -11,7 +11,7 @@
       <option name="ignoreUntypedCollections" value="false" />
     </inspection_tool>
     <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
-      <option name="ADDITIONAL_TAGS" value="note,question" />
+      <option name="ADDITIONAL_TAGS" value="note,question,explanation" />
     </inspection_tool>
   </profile>
 </component>

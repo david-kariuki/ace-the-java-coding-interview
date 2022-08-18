@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;Change configuration">
+    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array">
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Iteratively.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Iteratively.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/SearchRotatedArray_Recursive.java" afterDir="false" />
-    </list>
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="Refactor directories" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;Perform minor refactoring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +112,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "E:/Dev/Projects/Learning/Java/AceTheJavaCodingInterview/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search",
+    "last_opened_file_path": "E:/Dev/Projects/Noti/mobile_backend",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -127,11 +125,12 @@
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.SearchRotatedArray_Iteratively">
+  <component name="RunManager" selected="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray">
     <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
       <module name="AceTheJavaCodingInterview.app.main" />
@@ -158,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CH11_FindTheSumOfMaximumSumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH11_FindTheSumOfMaximumSumSubarray" />
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle./home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" />
         <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.SearchRotatedArray_Iteratively" />
         <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
         <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
-        <item itemvalue="Application.CH11_FindTheSumOfMaximumSumSubarray" />
-        <item itemvalue="Gradle./home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +224,7 @@
       <updated>1660052882094</updated>
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
-      <workItem from="1660802034664" duration="7165000" />
+      <workItem from="1660802034664" duration="14922000" />
     </task>
     <task id="LOCAL-00001" summary="Config">
       <created>1660052967983</created>
@@ -348,7 +347,42 @@
       <option name="project" value="LOCAL" />
       <updated>1660808956910</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="chore: config&#10;&#10;Update configuration">
+      <created>1660809689124</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660809689124</updated>
+    </task>
+    <task id="LOCAL-00019" summary="refactor: refactor&#10;&#10;Perform minor refactoring">
+      <created>1660809806149</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1660809806149</updated>
+    </task>
+    <task id="LOCAL-00020" summary="feat: add print methods&#10;&#10;Add methods to print out arrays differently">
+      <created>1660811950180</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660811950180</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array">
+      <created>1660825875479</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1660825875479</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array">
+      <created>1660825944818</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1660825944818</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -368,12 +402,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CODE_SMELLS_PROFILE" value="Project Default" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays." />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;iven three integer arrays sorted in ascending order, return the smallest number found in all three arrays." />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;given three integer arrays sorted in ascending order, return the smallest number found in all three arrays.&#10;&#10;#20" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays.&#10;&#10;Closes #38" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays. Closes #38" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given three integer arrays sorted in ascending order, return the smallest number found in all three arrays. &#10;&#10;Closes #38" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;Closes #38" />
     <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes david-kariuki/AceTheJavaCodingInterview/#38" />
@@ -393,7 +423,13 @@
     <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;Config" />
     <MESSAGE value="chore: config&#10;&#10;Configuration" />
     <MESSAGE value="chore: config&#10;&#10;Change configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;Change configuration" />
+    <MESSAGE value="chore: config&#10;&#10;Update configuration" />
+    <MESSAGE value="refactor: refactor&#10;&#10;Perform minor refactoring" />
+    <MESSAGE value="feat: add print methods&#10;&#10;Add methods to print out arrays differently" />
+    <MESSAGE value="feat: find low/high index&#10;&#10;find low/high Index of an element in a sorted array" />
+    <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
+    <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
