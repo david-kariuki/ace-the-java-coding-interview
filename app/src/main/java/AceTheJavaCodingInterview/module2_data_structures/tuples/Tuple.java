@@ -7,7 +7,7 @@
  * @author David Kariuki
  * @since /8/2022
  */
-package AceTheJavaCodingInterview.module2_data_structures.tupples;
+package AceTheJavaCodingInterview.module2_data_structures.tuples;
 
 public class Tuple<X, Y> {
 
