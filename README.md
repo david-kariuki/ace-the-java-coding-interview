@@ -32,27 +32,16 @@ Java project to learn advanced Data Structures and Algorithms
     - Arrays
         . Two Dimensional Arrays.
         . Challenge 1: Remove Even Integers from an Array
-        . Solution Review: Remove Even Integers from an Array
         . Challenge 2: Merge Two Sorted Arrays
-        . Solution Review: Merge Two Sorted Arrays
         . Challenge 3: Find Two Numbers that Add up to "n"
-        . Solution Review: Find Two Numbers that Add up to "n"
         . Challenge 4: Array of Products of All Elements Except Itself
-        . Solution Review: Array of Products of All Elements Except Itself
         . Challenge 5: Find Minimum Value in Array
-        . Solution Review: Find Minimum Value in an Array
         . Challenge 6: First Non-Repeating Integer in an Array
-        . Solution Review: First Non-Repeating Integer in an Array
         . Challenge 7: Find Second Maximum Value in an Array
-        . Solution Review: Find Second Maximum Value in an Array
         . Challenge 8: Right Rotate the Array by One Index
-        . Solution Review: Right Rotate the Array by One Index
         . Challenge 9: Re-arrange Positive & Negative Values
-        . Solution Review: Re-arrange Positive & Negative Values
         . Challenge 10: Rearrange Sorted Array in Max/Min Form
-        . Solution Review: Re-arrange Sorted Array in Max/Min Form
         . Challenge 11: Find the Sum of Maximum Sum Subarray
-        . Solution Review: Find the Sum of Maximum Sum Subarray
         . Implement Binary Search on a Sorted Array
         . Find Maximum in Sliding Window
         . Search a Rotated Array
@@ -60,4 +49,5 @@ Java project to learn advanced Data Structures and Algorithms
         . Find Low/High Index of an Element in a Sorted Array
         . Move All Zeros to the Beginning of the Array
         . Stock Buy Sell to Maximize Profit
+        
     -
