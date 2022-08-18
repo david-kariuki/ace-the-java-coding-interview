@@ -22,7 +22,7 @@ Java project to learn advanced Data Structures and Algorithms
   
 <br><br>
 ### 2. Data Structures
-    - Arrays
+    a. Arrays
         . Two Dimensional Arrays.
         . Challenge 1: Remove Even Integers from an Array
         . Challenge 2: Merge Two Sorted Arrays
