@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/StockBuySellToMaximizeProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/binary_search/StockBuySellToMaximizeProfit.java" afterDir="false" />
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: add class&#10;&#10;Add interval tuple class">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/Interval.java" afterDir="false" />
     </list>
-    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="gitignore" />
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="refactor: removed duplicate classes&#10;&#10;Deleted duplicated classes from big-o-notation package" />
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/MergeAnArrayWithOverlappingIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/Tuple.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,8 +73,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="data-structures" />
-                    <option name="lastUsedInstant" value="1660855208" />
+                    <option name="branchName" value="dsa" />
+                    <option name="lastUsedInstant" value="1661196534" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -123,19 +128,19 @@
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search" />
-      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray">
-    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
+  <component name="RunManager" selected="Application.CH7_FindSecondMaximumValueInArray_Sol_2">
+    <configuration name="CH4_ArrayOFProductsOfAllElementsExceptItself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH4_ArrayOFProductsOfAllElementsExceptItself" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
+    <configuration name="CH5_FindMinimumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH5_FindMinimumValueInArray" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" />
+    <configuration name="CH6_FindFirstNonRepeatingIntegerInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH6_FindFirstNonRepeatingIntegerInArray" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchRotatedArray_Iteratively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.SearchRotatedArray_Iteratively" />
+    <configuration name="CH7_FindSecondMaximumValueInArray_Sol_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH7_FindSecondMaximumValueInArray_Sol_1" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,44 +187,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="init" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="CH7_FindSecondMaximumValueInArray_Sol_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH7_FindSecondMaximumValueInArray_Sol_2" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle./home/dk/Dk/Projects/JavaProjects/Learning/AceTheJavaCodingInterview [init]" />
-        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.FindLowOrHighIndexOfAnElementInSortedArray" />
-        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.FindMaximumInSlidingWindow" />
-        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BinarySearchOnSortedArray_Recursive" />
+        <item itemvalue="Application.CH7_FindSecondMaximumValueInArray_Sol_2" />
+        <item itemvalue="Application.CH7_FindSecondMaximumValueInArray_Sol_1" />
+        <item itemvalue="Application.CH6_FindFirstNonRepeatingIntegerInArray" />
+        <item itemvalue="Application.CH5_FindMinimumValueInArray" />
+        <item itemvalue="Application.CH4_ArrayOFProductsOfAllElementsExceptItself" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
       <changelist id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Fix merge conflicts" />
       <created>1660052882094</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660052882094</updated>
+      <updated>1661198050650</updated>
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
       <workItem from="1660802034664" duration="17041000" />
@@ -329,7 +327,7 @@
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1660804883801</updated>
+      <updated>1661199477785</updated>
     </task>
     <task id="LOCAL-00016" summary="Refactor directories">
       <created>1660804900584</created>
@@ -408,7 +406,36 @@
       <option name="project" value="LOCAL" />
       <updated>1660855076977</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat: stock buy sell profit&#10;&#10;add code solution for stock buy sell to maximize profit problem">
+      <created>1660860779062</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1660860779062</updated>
+    </task>
+    <task id="LOCAL-00028" summary="chore: config&#10;&#10;add project configuration">
+      <created>1660860788774</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1660860788774</updated>
+    </task>
+    <task id="LOCAL-00029" summary="refactor: removed duplicate classes&#10;&#10;Deleted duplicated classes from big-o-notation package">
+      <created>1661196968806</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1661196968806</updated>
+    </task>
+    <task active="true" id="LOCAL-00030" summary="Feat">
+      <changelist id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: add class&#10;&#10;Add interval tuple class" />
+      <created>1661199477710</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1661199477785</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -430,9 +457,6 @@
     <option name="CODE_SMELLS_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="feat: add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes david-kariuki/AceTheJavaCodingInterview/#38" />
-    <MESSAGE value="feat($location): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 integer arrays sorted in asc order,return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <MESSAGE value="ci: config&#10;&#10;Configuration" />
     <MESSAGE value="chore: config&#10;Configuration" />
@@ -454,8 +478,12 @@
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
     <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
     <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <MESSAGE value="feat: stock buy sell profit&#10;&#10;add code solution for stock buy sell to maximize profit problem" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
+    <MESSAGE value="refactor: removed duplicate classes&#10;&#10;Deleted duplicated classes from big-o-notation package" />
+    <MESSAGE value="feat: add class&#10;&#10;Add interval tuple class" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add class&#10;&#10;Add interval tuple class" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
