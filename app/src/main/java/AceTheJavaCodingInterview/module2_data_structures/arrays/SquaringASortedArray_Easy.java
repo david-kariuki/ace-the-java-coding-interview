@@ -16,7 +16,7 @@
  * @note Space complexity - The above algorithm’s space complexity will also be O(N) O(N) ; this
  *     space will be used for the output array.
  * @author David Kariuki
- * @since /8/2022
+ * @since 23/8/2022
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
