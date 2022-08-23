@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * CyclicSortEasy Class
  *
  * <p>
  *

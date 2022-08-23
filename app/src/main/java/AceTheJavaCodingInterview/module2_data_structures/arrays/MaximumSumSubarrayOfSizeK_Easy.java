@@ -1,5 +1,5 @@
 /**
- * MaximumSumSubarrayOfSizeKEasy Class
+ * MaximumSumSubarrayOfSizeK_Easy Class
  *
  * <p>
  *
@@ -24,7 +24,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
-public class MaximumSumSubarrayOfSizeKEasy {
+public class MaximumSumSubarrayOfSizeK_Easy {
 
   /**
    * Main method
