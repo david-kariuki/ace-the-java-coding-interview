@@ -60,4 +60,12 @@ Java project to learn advanced Data Structures and Algorithms
         . Find Low/High Index of an Element in a Sorted Array
         . Move All Zeros to the Beginning of the Array
         . Stock Buy Sell to Maximize Profit
+        . Merge an Array With Overlapping Intervals
+        . Sort an Array Using Quicksort Algorithm
+        . Cyclic Sort (easy)
+        . Maximum Sum Subarray of Size K (easy)
+        . Smallest Subarray With a Greater Sum (easy)
+        . Squaring a Sorted Array (easy)
+        . Subset (easy)
+
     -
