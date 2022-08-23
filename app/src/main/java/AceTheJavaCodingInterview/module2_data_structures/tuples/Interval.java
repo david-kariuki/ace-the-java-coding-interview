@@ -10,9 +10,16 @@
 package AceTheJavaCodingInterview.module2_data_structures.tuples;
 
 public class Interval {
+
   public int first;
   public int second;
 
+  /**
+   * Class constructor
+   *
+   * @param x - X
+   * @param y - Y
+   */
   public Interval(int x, int y) {
     this.first = x;
     this.second = y;
