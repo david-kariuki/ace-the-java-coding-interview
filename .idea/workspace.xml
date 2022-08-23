@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: add class&#10;&#10;Add interval tuple class">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/Interval.java" afterDir="false" />
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/SmallestSubarrayWithAGreaterSumEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="refactor: removed duplicate classes&#10;&#10;Deleted duplicated classes from big-o-notation package" />
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
     <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/MergeAnArrayWithOverlappingIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/Tuple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/sorting/CyclicSortEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/sorting/CyclicSortEasy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="dsa" />
-                    <option name="lastUsedInstant" value="1661196534" />
+                    <option name="lastUsedInstant" value="1661235184" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -88,6 +89,35 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="6" end1="8" start2="6" end2="10" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="9" end1="10" start2="11" end2="12" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="15" end1="17" start2="17" end2="18" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="76" end1="77" start2="77" end2="78" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="91" end1="91" start2="92" end2="121" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="121" end1="122" start2="151" end2="152" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="131" end1="131" start2="161" end2="162" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="136" end1="139" start2="167" end2="170" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="142" end1="143" start2="173" end2="174" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="150" end1="152" start2="181" end2="183" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="163" end1="165" start2="194" end2="196" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="176" end1="178" start2="207" end2="209" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="189" end1="191" start2="220" end2="222" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="194" end1="195" start2="225" end2="226" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="204" end1="204" start2="235" end2="237" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="207" end1="209" start2="240" end2="240" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="329" end1="330" start2="360" end2="362" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="435" end1="436" start2="467" end2="498" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="437" end1="438" start2="499" end2="507" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="459" end1="464" start2="528" end2="529" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="479" end1="480" start2="544" end2="544" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="484" end1="486" start2="548" end2="555" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
+        <range start1="489" end1="489" start2="558" end2="565" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
+      </ranges>
+    </file>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="89yls38e" />
@@ -119,7 +149,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -129,31 +159,19 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CH7_FindSecondMaximumValueInArray_Sol_2">
-    <configuration name="CH4_ArrayOFProductsOfAllElementsExceptItself" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH4_ArrayOFProductsOfAllElementsExceptItself" />
+  <component name="RunManager" selected="Application.CyclicSortEasy">
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.MergeAnArrayWithOverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.MergeAnArrayWithOverlappingIntervals" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CH5_FindMinimumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.CH5_FindMinimumValueInArray" />
-      <module name="AceTheJavaCodingInterview.app.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,13 +218,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CyclicSortEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting.CyclicSortEasy" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicSortEasy" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.MergeAnArrayWithOverlappingIntervals" />
         <item itemvalue="Application.CH7_FindSecondMaximumValueInArray_Sol_2" />
         <item itemvalue="Application.CH7_FindSecondMaximumValueInArray_Sol_1" />
         <item itemvalue="Application.CH6_FindFirstNonRepeatingIntegerInArray" />
-        <item itemvalue="Application.CH5_FindMinimumValueInArray" />
-        <item itemvalue="Application.CH4_ArrayOFProductsOfAllElementsExceptItself" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +358,8 @@
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1661199477785</updated>
+      <updated>1661248117760</updated>
+      <workItem from="1661240019284" duration="4779000" />
     </task>
     <task id="LOCAL-00016" summary="Refactor directories">
       <created>1660804900584</created>
@@ -433,9 +465,46 @@
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1661199477785</updated>
+      <updated>1661248117760</updated>
+      <workItem from="1661238832583" duration="925000" />
+      <workItem from="1661248118526" duration="3752000" />
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="feat: merge array&#10;&#10;Merge an array with overlapping intervals">
+      <created>1661239997285</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1661239997285</updated>
+    </task>
+    <task id="LOCAL-00032" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661240055338</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1661240055338</updated>
+    </task>
+    <task id="LOCAL-00033" summary="feat: quick sort&#10;&#10;add code to sort an array using quicksort algorithm">
+      <created>1661248169810</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1661248169810</updated>
+    </task>
+    <task id="LOCAL-00034" summary="feat: cyclic sort&#10;&#10;add code to perform cyclic sort">
+      <created>1661249473373</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1661249473373</updated>
+    </task>
+    <task id="LOCAL-00035" summary="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)">
+      <created>1661250848465</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1661250848465</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -457,11 +526,7 @@
     <option name="CODE_SMELLS_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <MESSAGE value="ci: config&#10;&#10;Configuration" />
-    <MESSAGE value="chore: config&#10;Configuration" />
-    <MESSAGE value="&#10;chore: config&#10;&#10;Configuration" />
-    <MESSAGE value="chore: config&#10;&#10;configuration" />
+    <confirmRemoveEmptyChangelist value="1" />
     <MESSAGE value="chore(files): config&#10;&#10;configuration&#10;&#10;config" />
     <MESSAGE value="chore($rootScope): config&#10;&#10;configuration&#10;&#10;config" />
     <MESSAGE value="chore($rootscope): config&#10;&#10;configuration&#10;&#10;config" />
@@ -477,16 +542,27 @@
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high Index of an element in a sorted array" />
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
     <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
-    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <MESSAGE value="feat: stock buy sell profit&#10;&#10;add code solution for stock buy sell to maximize profit problem" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
     <MESSAGE value="refactor: removed duplicate classes&#10;&#10;Deleted duplicated classes from big-o-notation package" />
     <MESSAGE value="feat: add class&#10;&#10;Add interval tuple class" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add class&#10;&#10;Add interval tuple class" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <MESSAGE value="feat: merge array&#10;&#10;Merge an array with overlapping intervals" />
+    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <MESSAGE value="feat: quick sort&#10;&#10;add code to sort an array using quicksort algorithm" />
+    <MESSAGE value="feat: merge array&#10;&#10;add code to merge an array with overlapping intervals&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
+    <MESSAGE value="feat: cyclic sort&#10;&#10;add code to perform cyclic sort" />
+    <MESSAGE value="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
