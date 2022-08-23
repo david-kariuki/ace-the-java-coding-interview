@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Subset_Easy.java" afterDir="false" />
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets">
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
     <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,31 +83,6 @@
         </option>
       </RecentBranches>
     </option>
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="6" end1="8" start2="6" end2="8" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="16" end1="19" start2="16" end2="17" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="95" end1="118" start2="93" end2="112" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="167" end1="168" start2="161" end2="162" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="181" end1="183" start2="175" end2="177" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="194" end1="196" start2="188" end2="190" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="199" end1="200" start2="193" end2="194" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="207" end1="209" start2="201" end2="203" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="212" end1="213" start2="206" end2="207" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="220" end1="222" start2="214" end2="216" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="225" end1="226" start2="219" end2="220" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="235" end1="235" start2="229" end2="231" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="238" end1="240" start2="234" end2="234" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="469" end1="470" start2="463" end2="464" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="506" end1="507" start2="500" end2="536" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="529" end1="531" start2="558" end2="558" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="545" end1="546" start2="572" end2="572" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="549" end1="550" start2="575" end2="575" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="554" end1="555" start2="579" end2="584" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-      </ranges>
-    </file>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="89yls38e" />
@@ -461,7 +432,7 @@
       <option name="project" value="LOCAL" />
       <updated>1661248117760</updated>
       <workItem from="1661238832583" duration="925000" />
-      <workItem from="1661248118526" duration="9299000" />
+      <workItem from="1661248118526" duration="9653000" />
     </task>
     <task id="LOCAL-00031" summary="feat: merge array&#10;&#10;Merge an array with overlapping intervals">
       <created>1661239997285</created>
@@ -533,7 +504,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661253156398</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets">
+      <created>1661262585928</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1661262585928</updated>
+    </task>
+    <task id="LOCAL-00042" summary="chore: config&#10;&#10;add project configuration">
+      <created>1661262616637</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1661262616637</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -556,7 +541,6 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
-    <MESSAGE value="chore($rootscope): config&#10;&#10;configuration&#10;&#10;config" />
     <MESSAGE value="chore(): config&#10;&#10;configuration&#10;&#10;config" />
     <MESSAGE value="chore: config&#10;&#10;configuration&#10;&#10;config" />
     <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;config" />
@@ -578,10 +562,11 @@
     <MESSAGE value="feat: cyclic sort&#10;&#10;add code to perform cyclic sort" />
     <MESSAGE value="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)" />
     <MESSAGE value="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)" />
-    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
     <MESSAGE value="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)" />
     <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <MESSAGE value="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets" />
+    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
