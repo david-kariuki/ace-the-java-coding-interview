@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * Subset_Easy Class
  *
  * <p>
  *
