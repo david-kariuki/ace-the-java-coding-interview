@@ -33,7 +33,7 @@
  * @author David Kariuki
  * @since 24/8/2022
  */
-package AceTheJavaCodingInterview.module2_data_structures.arrays;
+package AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search;
 
 public class BitonicArrayMaximum_Easy {
 
