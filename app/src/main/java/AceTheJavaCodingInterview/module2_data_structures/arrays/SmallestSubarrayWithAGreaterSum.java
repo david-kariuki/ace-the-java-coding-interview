@@ -1,5 +1,5 @@
 /**
- * SmallestSubarrayWithAGreaterSum_Easy Class
+ * SmallestSubarrayWithAGreaterSum Class
  *
  * <p>
  *
@@ -33,7 +33,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
-public class SmallestSubarrayWithAGreaterSum_Easy {
+public class SmallestSubarrayWithAGreaterSum {
 
   /**
    * Main method

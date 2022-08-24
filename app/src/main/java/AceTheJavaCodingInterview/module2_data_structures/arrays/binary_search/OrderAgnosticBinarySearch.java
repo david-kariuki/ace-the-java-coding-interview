@@ -1,5 +1,5 @@
 /**
- * OrderAgnosticBinarySearch_Easy Class
+ * OrderAgnosticBinarySearch Class
  *
  * <p>
  *
@@ -49,7 +49,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search;
 
-public class OrderAgnosticBinarySearch_Easy {
+public class OrderAgnosticBinarySearch {
 
   /**
    * Main method
@@ -58,10 +58,10 @@ public class OrderAgnosticBinarySearch_Easy {
    */
   public static void main(String[] args) {
 
-    System.out.println(OrderAgnosticBinarySearch_Easy.search(new int[] {4, 6, 10}, 10));
-    System.out.println(OrderAgnosticBinarySearch_Easy.search(new int[] {1, 2, 3, 4, 5, 6, 7}, 5));
-    System.out.println(OrderAgnosticBinarySearch_Easy.search(new int[] {10, 6, 4}, 10));
-    System.out.println(OrderAgnosticBinarySearch_Easy.search(new int[] {10, 6, 4}, 4));
+    System.out.println(OrderAgnosticBinarySearch.search(new int[] {4, 6, 10}, 10));
+    System.out.println(OrderAgnosticBinarySearch.search(new int[] {1, 2, 3, 4, 5, 6, 7}, 5));
+    System.out.println(OrderAgnosticBinarySearch.search(new int[] {10, 6, 4}, 10));
+    System.out.println(OrderAgnosticBinarySearch.search(new int[] {10, 6, 4}, 4));
   }
 
   /** Method to search array and return index of key */

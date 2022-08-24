@@ -1,5 +1,5 @@
 /**
- * SubsetsWithDuplicates_Easy Class
+ * SubsetsWithDuplicates Class
  *
  * <p>
  *
@@ -49,7 +49,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @SuppressWarnings("SameParameterValue")
-public class SubsetsWithDuplicates_Easy {
+public class SubsetsWithDuplicates {
 
   /**
    * Main method
@@ -58,10 +58,10 @@ public class SubsetsWithDuplicates_Easy {
    */
   public static void main(String[] args) {
 
-    List<List<Integer>> result = SubsetsWithDuplicates_Easy.findSubsets(new int[] {1, 3, 3});
+    List<List<Integer>> result = SubsetsWithDuplicates.findSubsets(new int[] {1, 3, 3});
     System.out.println("Here is the list of subsets: " + result);
 
-    result = SubsetsWithDuplicates_Easy.findSubsets(new int[] {1, 5, 3, 3});
+    result = SubsetsWithDuplicates.findSubsets(new int[] {1, 5, 3, 3});
     System.out.println("Here is the list of subsets: " + result);
   }
 
