@@ -49,5 +49,9 @@ Java project to learn advanced Data Structures and Algorithms
         . Smallest Subarray With a Greater Sum (easy)
         . Squaring a Sorted Array (easy)
         . Subset (easy)
+        . Subsets With Duplicates (easy)
+        . Order-agnostic Binary Search (easy)
+        . Bitonic Array Maximum (easy)
+        .
 
     -
