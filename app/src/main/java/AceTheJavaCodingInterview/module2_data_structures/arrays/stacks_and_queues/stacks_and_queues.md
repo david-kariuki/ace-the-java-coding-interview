@@ -37,11 +37,30 @@ with the same elements but different ordering properties.
 Inserts the specified element into this queue if it is possible to do so immediately without violating capacity restrictions, returning true upon success and throwing an `IllegalStateException` if no space is currently available.
 
 Params:
-e – the element to add
-Returns: true (as specified by Collection.add)
-Throws:
+**e** – the element to add
+**Returns**: true (as specified by Collection.add)
+**Throws**:
 . `IllegalStateException` – if the element cannot be added at this time due to capacity restrictions
 . `ClassCastException` – if the class of the specified element prevents it from being added to this queue
 . `NullPointerException` – if the specified element is null and this queue does not permit null elements
 . `IllegalArgumentException` – if some property of this element prevents it from being added to this queue
 
+`boolean offer(E e);`
+Retrieves and removes the head of this queue. This method differs from `poll()` only in that it throws an exception if this queue is empty.
+. **return**: the head of this queue
+. **throws** `NoSuchElementException` if this queue is empty.
+
+`E remove();`
+Retrieves and removes the head of this queue, or returns null if this queue is empty.
+. **return**: the head of this queue, or `null` if this queue is empty.
+
+`E poll();`
+Retrieves, but does not remove, the head of this queue. This method differs from `peek()` only in that it throws an exception if this queue is empty.
+. **return**: the head of this queue
+. **throws**: `NoSuchElementException` if this queue is empty.
+
+`E element();`
+Retrieves, but does not remove, the head of this queue, or returns `null` if this queue is empty.
+. **return**: the head of this queue, or `null` if this queue is empty.
+
+`E peek();`
