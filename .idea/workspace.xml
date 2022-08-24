@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: order agnostic binary search&#10;&#10;add code to search for a key in an ascending array using order agnostic binary search">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/BitonicArrayMaximum_Easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: bitonic array maximum&#10;&#10;add code to find the maximum element in a bitonic array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
     <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="feat: updated file&#10;&#10;update readme file" />
     <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
@@ -89,31 +86,6 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="6" end1="7" start2="6" end2="8" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="8" end1="8" start2="9" end2="10" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="10" end1="11" start2="12" end2="15" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="12" end1="12" start2="16" end2="17" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="85" end1="85" start2="90" end2="116" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="132" end1="135" start2="163" end2="166" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="146" end1="148" start2="177" end2="179" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="151" end1="152" start2="182" end2="183" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="159" end1="161" start2="190" end2="192" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="164" end1="165" start2="195" end2="196" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="177" end1="178" start2="208" end2="209" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="190" end1="191" start2="221" end2="222" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="200" end1="202" start2="231" end2="235" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="203" end1="205" start2="236" end2="236" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="434" end1="435" start2="465" end2="467" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="520" end1="521" start2="552" end2="603" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="543" end1="546" start2="625" end2="625" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="565" end1="566" start2="644" end2="644" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="568" end1="569" start2="646" end2="651" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-      </ranges>
-    </file>
-  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="89yls38e" />
   </component>
@@ -131,23 +103,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Project.color&quot;: &quot;1c014d&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Dev/Projects/Noti/mobile_backend&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Project.color": "1c014d",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "E:/Dev/Projects/Noti/mobile_backend",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
@@ -247,20 +220,6 @@
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
       <workItem from="1660802034664" duration="17041000" />
-    </task>
-    <task id="LOCAL-00001" summary="Config">
-      <created>1660052967983</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1660052967983</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Config">
-      <created>1660717150804</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1660717150804</updated>
     </task>
     <task id="LOCAL-00003" summary="Fix merge conflicts">
       <created>1660717311167</created>
@@ -463,7 +422,7 @@
       <updated>1661248117760</updated>
       <workItem from="1661238832583" duration="925000" />
       <workItem from="1661248118526" duration="10657000" />
-      <workItem from="1661318217526" duration="5623000" />
+      <workItem from="1661318217526" duration="6167000" />
     </task>
     <task id="LOCAL-00031" summary="feat: merge array&#10;&#10;Merge an array with overlapping intervals">
       <created>1661239997285</created>
@@ -599,7 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661323050430</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="feat: bitonic array maximum&#10;&#10;add code to find the maximum element in a bitonic array">
+      <created>1661325113167</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1661325113168</updated>
+    </task>
+    <task id="LOCAL-00051" summary="chore: config&#10;&#10;add project configuration">
+      <created>1661325396382</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1661325396382</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -622,7 +595,6 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
-    <MESSAGE value="chore: config&#10;&#10;Configuration&#10;&#10;Config" />
     <MESSAGE value="chore: config&#10;&#10;Configuration" />
     <MESSAGE value="chore: config&#10;&#10;Change configuration" />
     <MESSAGE value="chore: config&#10;&#10;Update configuration" />
@@ -642,12 +614,13 @@
     <MESSAGE value="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)" />
     <MESSAGE value="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets" />
-    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
     <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all distinct subsets of an array with duplicates" />
     <MESSAGE value="feat: order agnostic binary search&#10;&#10;add code to search for a key in an ascending array using order agnostic binary search" />
     <MESSAGE value="feat: updated file&#10;&#10;update readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: updated file&#10;&#10;update readme file" />
+    <MESSAGE value="feat: bitonic array maximum&#10;&#10;add code to find the maximum element in a bitonic array" />
+    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
