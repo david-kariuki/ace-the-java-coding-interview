@@ -22,7 +22,7 @@ Java project to learn advanced Data Structures and Algorithms
   
 <br><br>
 ### 2. Data Structures
-    a. Arrays
+    - Arrays
         . Two Dimensional Arrays.
         . Challenge 1: Remove Even Integers from an Array
         . Challenge 2: Merge Two Sorted Arrays
@@ -42,5 +42,12 @@ Java project to learn advanced Data Structures and Algorithms
         . Find Low/High Index of an Element in a Sorted Array
         . Move All Zeros to the Beginning of the Array
         . Stock Buy Sell to Maximize Profit
-        
+        . Merge an Array With Overlapping Intervals
+        . Sort an Array Using Quicksort Algorithm
+        . Cyclic Sort (easy)
+        . Maximum Sum Subarray of Size K (easy)
+        . Smallest Subarray With a Greater Sum (easy)
+        . Squaring a Sorted Array (easy)
+        . Subset (easy)
+
     -

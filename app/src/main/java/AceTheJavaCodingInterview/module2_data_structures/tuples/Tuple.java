@@ -5,9 +5,9 @@
  *
  * @implNote Creating a tuple class as java does not support returning multiple arguments
  * @author David Kariuki
- * @since /8/2022
+ * @since 18/8/2022
  */
-package AceTheJavaCodingInterview.module2_data_structures.tupples;
+package AceTheJavaCodingInterview.module2_data_structures.tuples;
 
 public class Tuple<X, Y> {
 
