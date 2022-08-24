@@ -61,7 +61,7 @@ public class BitonicArrayMaximum {
     int start = 0;
     int end = nums.length - 1;
 
-    while (start <= end) {
+    while (start < end) {
 
       int mid = start + ((end - start) / 2); // Calculate mid point
 
