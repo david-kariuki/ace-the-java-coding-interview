@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: bitonic array maximum&#10;&#10;add code to find the maximum element in a bitonic array">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: permutation&#10;&#10;permutation - incomplete">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/stacks_and_queues/stacks_and_queues.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/stacks_and_queues/stacks_and_queues.md" afterDir="false" />
     </list>
     <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration" />
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="feat: updated file&#10;&#10;update readme file" />
+    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="feat: updated file&#10;&#10;update md file" />
     <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,41 +131,15 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.hash_tables" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search" />
-      <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BitonicArrayMaximum_Easy">
-    <configuration name="BitonicArrayMaximum_Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.BitonicArrayMaximum_Easy" />
-      <module name="AceTheJavaCodingInterview.app.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicSortEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting.CyclicSortEasy" />
-      <module name="AceTheJavaCodingInterview.app.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OrderAgnosticBinarySearch_Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.OrderAgnosticBinarySearch_Easy" />
+  <component name="RunManager" selected="Application.PairWithTargetSum">
+    <configuration name="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BitonicArrayMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BitonicArrayMaximum" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
@@ -173,8 +151,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaringASortedArray_Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.SquaringASortedArray_Easy" />
+    <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.OrderAgnosticBinarySearch" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairWithTargetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.PairWithTargetSum" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquaringASortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.SquaringASortedArray" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
@@ -201,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BitonicArrayMaximum_Easy" />
-        <item itemvalue="Application.OrderAgnosticBinarySearch_Easy" />
+        <item itemvalue="Application.PairWithTargetSum" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.BitonicArrayMaximum_Easy" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.OrderAgnosticBinarySearch_Easy" />
         <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.Subset_Easy" />
         <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.arrays.SquaringASortedArray_Easy" />
-        <item itemvalue="Application.CyclicSortEasy" />
       </list>
     </recent_temporary>
   </component>
@@ -220,63 +224,6 @@
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
       <workItem from="1660802034664" duration="17041000" />
-    </task>
-    <task id="LOCAL-00003" summary="Fix merge conflicts">
-      <created>1660717311167</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1660717311167</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Solution Review: Find the Sum of Maximum Sum Subarray">
-      <created>1660730366062</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1660730366062</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Config">
-      <created>1660730388165</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1660730388165</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Implement Binary Search on a Sorted Array">
-      <created>1660735878190</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1660735878190</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Implement Binary Search on a Sorted Array">
-      <created>1660736817554</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1660736817554</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Minor changes">
-      <changelist id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-      <created>1660736845302</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1660736845302</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Find Maximum in Sliding Window">
-      <created>1660738335342</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1660738335342</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Search Rotated Array class template">
-      <created>1660746341676</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1660746341676</updated>
     </task>
     <task id="LOCAL-00011" summary="Config">
       <created>1660746346838</created>
@@ -422,7 +369,7 @@
       <updated>1661248117760</updated>
       <workItem from="1661238832583" duration="925000" />
       <workItem from="1661248118526" duration="10657000" />
-      <workItem from="1661318217526" duration="6167000" />
+      <workItem from="1661318217526" duration="14703000" />
     </task>
     <task id="LOCAL-00031" summary="feat: merge array&#10;&#10;Merge an array with overlapping intervals">
       <created>1661239997285</created>
@@ -572,7 +519,63 @@
       <option name="project" value="LOCAL" />
       <updated>1661325396382</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="feat: updated file&#10;&#10;update readme file">
+      <created>1661325616821</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1661325616822</updated>
+    </task>
+    <task id="LOCAL-00053" summary="chore: config&#10;&#10;add project configuration">
+      <created>1661325626788</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1661325626788</updated>
+    </task>
+    <task id="LOCAL-00054" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661326986712</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1661326986712</updated>
+    </task>
+    <task id="LOCAL-00055" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661327516604</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1661327516605</updated>
+    </task>
+    <task id="LOCAL-00056" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661327613763</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1661327613763</updated>
+    </task>
+    <task id="LOCAL-00057" summary="feat: pair with target sum&#10;&#10;add code to find the pair whose sum equals the target sum">
+      <created>1661328506741</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1661328506741</updated>
+    </task>
+    <task id="LOCAL-00058" summary="feat: permutation&#10;&#10;permutation - incomplete">
+      <created>1661349551904</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1661349551904</updated>
+    </task>
+    <task id="LOCAL-00059" summary="feat: updated file&#10;&#10;update md file">
+      <created>1661349559006</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1661349559006</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -595,9 +598,6 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
-    <MESSAGE value="chore: config&#10;&#10;Configuration" />
-    <MESSAGE value="chore: config&#10;&#10;Change configuration" />
-    <MESSAGE value="chore: config&#10;&#10;Update configuration" />
     <MESSAGE value="refactor: refactor&#10;&#10;Perform minor refactoring" />
     <MESSAGE value="feat: add print methods&#10;&#10;Add methods to print out arrays differently" />
     <MESSAGE value="feat: find low/high index&#10;&#10;find low/high Index of an element in a sorted array" />
@@ -614,13 +614,16 @@
     <MESSAGE value="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)" />
     <MESSAGE value="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets" />
-    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all distinct subsets of an array with duplicates" />
     <MESSAGE value="feat: order agnostic binary search&#10;&#10;add code to search for a key in an ascending array using order agnostic binary search" />
-    <MESSAGE value="feat: updated file&#10;&#10;update readme file" />
     <MESSAGE value="feat: bitonic array maximum&#10;&#10;add code to find the maximum element in a bitonic array" />
+    <MESSAGE value="feat: updated file&#10;&#10;update readme file" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: config&#10;&#10;add project configuration" />
+    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <MESSAGE value="feat: pair with target sum&#10;&#10;add code to find the pair whose sum equals the target sum" />
+    <MESSAGE value="feat: permutation&#10;&#10;permutation - incomplete" />
+    <MESSAGE value="feat: updated file&#10;&#10;update md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: updated file&#10;&#10;update md file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
