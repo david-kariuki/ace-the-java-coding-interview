@@ -28,37 +28,31 @@ jobs:
       
       - name: Checkout
         uses: actions/checkout@v3
-      
       - name: Setup Pages
         uses: actions/configure-pages@v1
-      
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-      
       - name: Close Stale Issues
         uses: actions/stale@v5.1.1
-      
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.4.1
-      
       - name: Setup Go environment
         uses: actions/setup-go@v3.3.0
-      
       - name: SonarCloud Scan
         # You may pin to the exact commit or the version.
         # uses: SonarSource/sonarcloud-github-action@de2e56b42aa84d0b1c5b622644ac17e505c9a049
         uses: SonarSource/sonarcloud-github-action@v1.6
-      
       - name: HashiCorp's Link Checker
         # You may pin to the exact commit or the version.
         # uses: hashicorp/gh-action-check-broken-links@9da9ec2d83f88fe981a856c3f03aca64e68af90c
         uses: hashicorp/gh-action-check-broken-links@v1
+      - name: Cache
+        uses: actions/cache@v3.0.8
         
 
   # Deployment job
