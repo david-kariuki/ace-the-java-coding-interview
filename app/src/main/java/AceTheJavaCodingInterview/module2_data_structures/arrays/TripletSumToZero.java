@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * TripletSumToZero Class
  *
  * <p>
  *

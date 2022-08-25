@@ -38,6 +38,8 @@
  *     and the queue to store the intermediate permutations. If you see closely, at any time, we
  *     don’t have more than N! permutations between the result list and the queue. Therefore, the
  *     overall space complexity to store N! permutations each containing N elements will be O(N*N!).
+ * @see AceTheJavaCodingInterview.module2_data_structures.arrays.Subset
+ * @see AceTheJavaCodingInterview.module2_data_structures.arrays.SubsetsWithDuplicates
  * @author David Kariuki
  * @since 24/8/2022
  */

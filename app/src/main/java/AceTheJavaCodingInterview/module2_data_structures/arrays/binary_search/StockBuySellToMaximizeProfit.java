@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * StockBuySellToMaximizeProfit Class
  *
  * <p>
  *

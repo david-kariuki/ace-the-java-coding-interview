@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * CH8_RightRotateTheArrayByOneIndex Class
  *
  * <p>
  *
