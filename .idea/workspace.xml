@@ -4,22 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: triplet sum to zero&#10;&#10;add class with code to perform triplet sum to zero">
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: triplet sum close to target&#10;&#10;add class with code to search triplet sum close to target">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" afterDir="false" />
     </list>
     <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
     <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="feat: updated file&#10;&#10;update md file">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/arrays.md" afterDir="false" />
     </list>
     <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Subset_Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Subset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,34 +90,6 @@
       </RecentBranches>
     </option>
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="6" end1="8" start2="6" end2="9" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="12" end1="14" start2="13" end2="13" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="17" end1="19" start2="16" end2="23" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="92" end1="92" start2="96" end2="124" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="109" end1="125" start2="141" end2="157" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="126" end1="127" start2="158" end2="159" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="132" end1="132" start2="164" end2="165" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="136" end1="137" start2="169" end2="169" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="139" end1="142" start2="171" end2="174" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="145" end1="146" start2="177" end2="178" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="153" end1="155" start2="185" end2="187" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="166" end1="168" start2="198" end2="200" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="171" end1="172" start2="203" end2="204" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="192" end1="194" start2="224" end2="226" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="207" end1="212" start2="239" end2="240" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="227" end1="255" start2="255" end2="255" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="371" end1="372" start2="371" end2="374" changelist="a504d89a-f171-4573-83c4-bd9e6b0036d0" />
-        <range start1="577" end1="578" start2="579" end2="608" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="600" end1="601" start2="630" end2="630" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="620" end1="622" start2="649" end2="649" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="624" end1="624" start2="651" end2="652" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-        <range start1="625" end1="626" start2="653" end2="656" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
-      </ranges>
-    </file>
-  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="89yls38e" />
   </component>
@@ -162,8 +130,8 @@
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="AceTheJavaCodingInterview.module2_data_structures.stacks_and_queues" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays" />
+      <recent name="AceTheJavaCodingInterview.module2_data_structures.stacks_and_queues" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.hash_tables" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.arrays.sorting" />
       <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
@@ -262,48 +230,6 @@
       <updated>1661248117760</updated>
       <workItem from="1661240019284" duration="4779000" />
     </task>
-    <task id="LOCAL-00017" summary="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38">
-      <created>1660808956910</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1660808956910</updated>
-    </task>
-    <task id="LOCAL-00018" summary="chore: config&#10;&#10;Update configuration">
-      <created>1660809689124</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1660809689124</updated>
-    </task>
-    <task id="LOCAL-00019" summary="refactor: refactor&#10;&#10;Perform minor refactoring">
-      <created>1660809806149</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1660809806149</updated>
-    </task>
-    <task id="LOCAL-00020" summary="feat: add print methods&#10;&#10;Add methods to print out arrays differently">
-      <created>1660811950180</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1660811950180</updated>
-    </task>
-    <task id="LOCAL-00021" summary="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array">
-      <created>1660825875479</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1660825875479</updated>
-    </task>
-    <task id="LOCAL-00022" summary="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array">
-      <created>1660825944818</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1660825944818</updated>
-    </task>
     <task id="LOCAL-00023" summary="chore: config&#10;&#10;add project configuration">
       <created>1660827192732</created>
       <option name="number" value="00023" />
@@ -364,7 +290,7 @@
       <workItem from="1661248118526" duration="10657000" />
       <workItem from="1661318217526" duration="14857000" />
       <workItem from="1661407453341" duration="4244000" />
-      <workItem from="1661412149818" duration="6266000" />
+      <workItem from="1661412149818" duration="10809000" />
     </task>
     <task id="LOCAL-00031" summary="feat: merge array&#10;&#10;Merge an array with overlapping intervals">
       <created>1661239997285</created>
@@ -605,7 +531,49 @@
       <option name="project" value="LOCAL" />
       <updated>1661427558764</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="feat: update template&#10;&#10;update class template">
+      <created>1661427686521</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1661427686521</updated>
+    </task>
+    <task id="LOCAL-00066" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661427959380</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1661427959380</updated>
+    </task>
+    <task id="LOCAL-00067" summary="chore: config&#10;&#10;add project configuration">
+      <created>1661427965594</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1661427965594</updated>
+    </task>
+    <task id="LOCAL-00068" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661428010341</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1661428010341</updated>
+    </task>
+    <task id="LOCAL-00069" summary="feat: updated file&#10;&#10;update md file">
+      <created>1661428015713</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1661428015713</updated>
+    </task>
+    <task id="LOCAL-00070" summary="feat: triplet sum close to target&#10;&#10;add class with code to search triplet sum close to target">
+      <created>1661435670040</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1661435670040</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -628,8 +596,6 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
-    <MESSAGE value="feat: find low/high index&#10;&#10;find low/high index of an element in a sorted array" />
-    <MESSAGE value="feat: find low/high index&#10;&#10;move all zeros to the beginning of the array" />
     <MESSAGE value="feat: stock buy sell profit&#10;&#10;add code solution for stock buy sell to maximize profit problem" />
     <MESSAGE value="refactor: removed duplicate classes&#10;&#10;Deleted duplicated classes from big-o-notation package" />
     <MESSAGE value="feat: add class&#10;&#10;Add interval tuple class" />
@@ -647,13 +613,15 @@
     <MESSAGE value="feat: updated file&#10;&#10;update readme file" />
     <MESSAGE value="feat: pair with target sum&#10;&#10;add code to find the pair whose sum equals the target sum" />
     <MESSAGE value="feat: permutation&#10;&#10;permutation - incomplete" />
-    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
-    <MESSAGE value="feat: updated file&#10;&#10;update md file" />
-    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <MESSAGE value="feat: permutation&#10;&#10;permutation - permutation" />
     <MESSAGE value="feat: permutation&#10;&#10;permutation&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
     <MESSAGE value="feat: triplet sum to zero&#10;&#10;add class with code to perform triplet sum to zero" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: triplet sum to zero&#10;&#10;add class with code to perform triplet sum to zero" />
+    <MESSAGE value="feat: update template&#10;&#10;update class template" />
+    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
+    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <MESSAGE value="feat: updated file&#10;&#10;update md file" />
+    <MESSAGE value="feat: triplet sum close to target&#10;&#10;add class with code to search triplet sum close to target" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: triplet sum close to target&#10;&#10;add class with code to search triplet sum close to target" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
