@@ -42,6 +42,7 @@ public class CH8_RightRotateTheArrayByOneIndex {
    *     this solution is O(n).
    * @param arr - int[]
    */
+  @SuppressWarnings("ManualArrayCopy")
   private static void rotateArray(int[] arr) {
 
     int lastElement = arr[arr.length - 1]; // get last element
