@@ -20,7 +20,7 @@
  *     <p>To follow a similar approach, first, we will sort the array and then iterate through it
  *     taking one number at a time. Let’s say during our iteration we are at number ‘X’, so we need
  *     to find ‘Y’ and ‘Z’ such that X + Y + Z == 0. At this stage, our problem translates into
- *     finding a pair whose sum is equal to “-X −X ” (as from the above equation Y + Z == -X).
+ *     finding a pair whose sum is equal to -X (as from the above equation Y + Z == -X).
  *     <p>
  *     <p>Another difference from Pair with Target Sum({@link
  *     AceTheJavaCodingInterview.module2_data_structures.arrays.PairWithTargetSum}) is that we need
