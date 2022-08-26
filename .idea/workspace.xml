@@ -4,22 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="Feat" comment="feat: class template&#10;&#10;update class template">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum_ReturnCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum_ReturnList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/tuples/_tuples.md" afterDir="false" />
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/SubArraysWithProductLessThanTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/arrays.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/_arrays.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/stacks_and_queues/stacks_and_queues.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/stacks_and_queues/_stacks_and_queues.md" afterDir="false" />
     </list>
     <list id="ae46ed5c-9428-478d-a42f-255ba9fecbf4" name="bug" comment="fix: permutation&#10;&#10;fix permutation method" />
-    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="Config" comment="chore: config&#10;&#10;add project configuration" />
+    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="config" comment="chore: config&#10;&#10;add project configuration" />
+    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="docs" comment="docs: updated file&#10;&#10;update md file" />
+    <list id="7d47c9e0-bea8-4034-aabb-f2bf018a3cbc" name="fix" comment="fix: &#10;&#10;" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="docs: updated file&#10;&#10;update md file" />
-    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="Refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/Permutations.java" afterDir="false" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum_ReturnList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum_ReturnList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,24 +109,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Project.color&quot;: &quot;1c014d&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Dev/Projects/Noti/mobile_backend&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Project.color": "1c014d",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "E:/Dev/Projects/Noti/mobile_backend",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
@@ -141,20 +140,7 @@
       <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StockBuySellToMaximizeProfit">
-    <configuration name="MoveAllZerosToTheBeginningOfTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.MoveAllZerosToTheBeginningOfTheArray" />
-      <module name="AceTheJavaCodingInterview.app.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SubArraysWithProductLessThanTarget">
     <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.OrderAgnosticBinarySearch" />
       <module name="AceTheJavaCodingInterview.app.main" />
@@ -207,13 +193,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubArraysWithProductLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.SubArraysWithProductLessThanTarget" />
+      <module name="AceTheJavaCodingInterview.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArraysWithProductLessThanTarget" />
         <item itemvalue="Application.StockBuySellToMaximizeProfit" />
         <item itemvalue="Application.SearchRotatedArray_Recursive" />
         <item itemvalue="Application.SearchRotatedArray_Iteratively" />
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
-        <item itemvalue="Application.MoveAllZerosToTheBeginningOfTheArray" />
       </list>
     </recent_temporary>
   </component>
@@ -228,62 +227,6 @@
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
       <workItem from="1660802034664" duration="17041000" />
-    </task>
-    <task id="LOCAL-00035" summary="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)">
-      <created>1661250848465</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1661250848465</updated>
-    </task>
-    <task id="LOCAL-00036" summary="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)">
-      <created>1661251952198</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1661251952198</updated>
-    </task>
-    <task id="LOCAL-00037" summary="refactor: refactor&#10;&#10;perform minor refactoring">
-      <created>1661252060295</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1661252060295</updated>
-    </task>
-    <task id="LOCAL-00038" summary="chore: config&#10;&#10;add project configuration">
-      <created>1661252074419</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1661252074419</updated>
-    </task>
-    <task id="LOCAL-00039" summary="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)">
-      <created>1661253084266</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1661253084266</updated>
-    </task>
-    <task id="LOCAL-00040" summary="refactor: refactor&#10;&#10;perform minor refactoring">
-      <created>1661253156398</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1661253156398</updated>
-    </task>
-    <task id="LOCAL-00041" summary="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets">
-      <created>1661262585928</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1661262585928</updated>
-    </task>
-    <task id="LOCAL-00042" summary="chore: config&#10;&#10;add project configuration">
-      <created>1661262616637</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1661262616637</updated>
     </task>
     <task id="LOCAL-00043" summary="ReadMe">
       <changelist id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="feat: updated file&#10;&#10;update readme file" />
@@ -574,7 +517,64 @@
       <option name="project" value="LOCAL" />
       <updated>1661498660997</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="fix">
+      <changelist id="7d47c9e0-bea8-4034-aabb-f2bf018a3cbc" name="fix" comment="fix: &#10;&#10;" />
+      <created>1661500579421</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500579421</updated>
+    </task>
+    <task id="LOCAL-00085" summary="docs: updated file&#10;&#10;update md file">
+      <created>1661500617122</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500617122</updated>
+    </task>
+    <task id="LOCAL-00086" summary="chore: config&#10;&#10;add project configuration">
+      <created>1661500622866</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500622866</updated>
+    </task>
+    <task id="LOCAL-00087" summary="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count">
+      <created>1661500720158</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500720158</updated>
+    </task>
+    <task id="LOCAL-00088" summary="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets">
+      <created>1661500735567</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500735567</updated>
+    </task>
+    <task id="LOCAL-00089" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661500783711</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500783711</updated>
+    </task>
+    <task id="LOCAL-00090" summary="chore: config&#10;&#10;add project configuration">
+      <created>1661500789303</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1661500789303</updated>
+    </task>
+    <task id="LOCAL-00091" summary="docs: updated file&#10;&#10;update md file">
+      <created>1661501098650</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1661501098650</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -597,10 +597,7 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
-    <MESSAGE value="feat: merge array&#10;&#10;Merge an array with overlapping intervals" />
-    <MESSAGE value="feat: quick sort&#10;&#10;add code to sort an array using quicksort algorithm" />
-    <MESSAGE value="feat: merge array&#10;&#10;add code to merge an array with overlapping intervals&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
-    <MESSAGE value="feat: cyclic sort&#10;&#10;add code to perform cyclic sort" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)" />
     <MESSAGE value="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)" />
     <MESSAGE value="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)" />
@@ -619,10 +616,14 @@
     <MESSAGE value="feat: triplets sum with smaller sum&#10;&#10;add class with code to search triplets sum with smaller sum" />
     <MESSAGE value="feat: updated file&#10;&#10;update md file" />
     <MESSAGE value="feat: class template&#10;&#10;update class template" />
+    <MESSAGE value="fix: permutation&#10;&#10;fix permutation method" />
+    <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count" />
+    <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets" />
+    <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count of the triplets&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
     <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
-    <MESSAGE value="fix: permutation&#10;&#10;fix permutation method" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: permutation&#10;&#10;fix permutation method" />
+    <MESSAGE value="docs: updated file&#10;&#10;update md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: updated file&#10;&#10;update md file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
