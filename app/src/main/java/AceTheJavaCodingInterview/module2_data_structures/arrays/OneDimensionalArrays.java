@@ -12,7 +12,7 @@ package AceTheJavaCodingInterview.module2_data_structures.arrays;
 @SuppressWarnings({"ForLoopReplaceableByForEach", "SameParameterValue"})
 public class OneDimensionalArrays {
 
-  private static final int[] myArray = new int[4]; // Array declaration
+  public static final int[] myArray = new int[4]; // Array declaration
 
   public static void main(String[] args) {
 
@@ -25,7 +25,7 @@ public class OneDimensionalArrays {
   /**
    * Method to initialize array
    */
-  private static void initArray() {
+  public static void initArray() {
 
     // Adding elements in an array
     myArray[0] = 10;
@@ -38,12 +38,12 @@ public class OneDimensionalArrays {
    * Method to update array element
    *
    */
-  private static void updateArrayElement(final int index, final int value) {
+  public static void updateArrayElement(final int index, final int value) {
       myArray[index] = value;
   }
 
   /** Method to show array elements */
-  private static void showArrayElements() {
+  public static void showArrayElements() {
 
     System.out.println("\nPrinting array elements\n");
 

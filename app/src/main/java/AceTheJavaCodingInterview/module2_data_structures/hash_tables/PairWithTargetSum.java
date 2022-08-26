@@ -52,7 +52,7 @@ public class PairWithTargetSum {
    * @param targetSum -
    * @return int[]
    */
-  private static int[] search(int[] arr, int targetSum) {
+  public static int[] search(int[] arr, int targetSum) {
 
     // HashMap to store numbers and their indices
     HashMap<Integer, Integer> nums = new HashMap<>();

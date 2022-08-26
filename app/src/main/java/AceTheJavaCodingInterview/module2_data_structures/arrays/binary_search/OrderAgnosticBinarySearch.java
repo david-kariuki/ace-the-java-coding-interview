@@ -65,7 +65,7 @@ public class OrderAgnosticBinarySearch {
   }
 
   /** Method to search array and return index of key */
-  private static int search(int[] nums, int key) {
+  public static int search(int[] nums, int key) {
 
     int start = 0; // Initialize start
     int end = nums.length - 1; // Initialize end

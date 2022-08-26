@@ -72,7 +72,7 @@ public class SubsetsWithDuplicates {
    * @return List<List<Integer>>
    */
   @SuppressWarnings("UnusedAssignment")
-  private static List<List<Integer>> findSubsets(int[] nums) {
+  public static List<List<Integer>> findSubsets(int[] nums) {
 
     // Sort numbers to handle duplicates
     Arrays.sort(nums);

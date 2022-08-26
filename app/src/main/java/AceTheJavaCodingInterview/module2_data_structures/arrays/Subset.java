@@ -55,7 +55,7 @@ public class Subset {
    * @param nums - int[]
    * @return List<List<Integer>>
    */
-  private static List<List<Integer>> findSubsets(int[] nums) {
+  public static List<List<Integer>> findSubsets(int[] nums) {
 
     List<List<Integer>> subsets = new ArrayList<>();
 

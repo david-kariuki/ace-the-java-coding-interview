@@ -51,7 +51,7 @@ public class SearchRotatedArray_Iteratively {
    * @param nums - int[]
    * @param target - int
    */
-  private static int binarySearchRotated(int[] nums, int target) {
+  public static int binarySearchRotated(int[] nums, int target) {
 
     int start = 0;
     int end = nums.length - 1;

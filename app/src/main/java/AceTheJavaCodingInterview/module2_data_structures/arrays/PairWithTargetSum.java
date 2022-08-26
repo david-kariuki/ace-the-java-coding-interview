@@ -61,7 +61,7 @@ public class PairWithTargetSum {
    * @param targetSum -
    * @return int[]
    */
-  private static int[] search(int[] arr, int targetSum) {
+  public static int[] search(int[] arr, int targetSum) {
 
     int left = 0;
     int right = arr.length - 1;

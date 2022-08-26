@@ -61,7 +61,7 @@ public class FindMaximumInSlidingWindow {
    * @return ArrayDeque<Integer>
    */
   @SuppressWarnings("ConstantConditions")
-  private static ArrayDeque<Integer> findMaxSlidingWindow(int[] arr, int windowSize) {
+  public static ArrayDeque<Integer> findMaxSlidingWindow(int[] arr, int windowSize) {
 
     // ArrayDeque for storing values
     ArrayDeque<Integer> result = new ArrayDeque<>();

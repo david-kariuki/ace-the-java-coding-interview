@@ -51,7 +51,7 @@ public class SmallestSubarrayWithAGreaterSum {
   }
 
   /** Method to find min sub array */
-  private static int findMinSubArray(int S, int[] arr) {
+  public static int findMinSubArray(int S, int[] arr) {
 
     int windowSum = 0, minLength = Integer.MAX_VALUE;
     int windowStart = 0;

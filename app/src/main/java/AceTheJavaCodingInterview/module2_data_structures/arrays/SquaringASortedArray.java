@@ -43,7 +43,7 @@ public class SquaringASortedArray {
    * @param arr - int[]
    * @return int[]
    */
-  private static int[] makeSquares(int[] arr) {
+  public static int[] makeSquares(int[] arr) {
 
     int n = arr.length;
     int[] squares = new int[n];

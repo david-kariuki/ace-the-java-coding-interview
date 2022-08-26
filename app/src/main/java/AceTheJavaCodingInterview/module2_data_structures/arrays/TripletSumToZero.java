@@ -89,7 +89,7 @@ public class TripletSumToZero {
    * @param left - int
    * @param triplets - List<List<Integer>>
    */
-  private static void searchPair(int[] arr, int targetSum, int left, List<List<Integer>> triplets) {
+  public static void searchPair(int[] arr, int targetSum, int left, List<List<Integer>> triplets) {
 
     int right = arr.length - 1;
 

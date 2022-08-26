@@ -43,7 +43,7 @@ public class CH8_RightRotateTheArrayByOneIndex {
    * @param arr - int[]
    */
   @SuppressWarnings("ManualArrayCopy")
-  private static void rotateArray(int[] arr) {
+  public static void rotateArray(int[] arr) {
 
     int lastElement = arr[arr.length - 1]; // get last element
 

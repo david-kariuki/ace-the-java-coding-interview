@@ -37,7 +37,7 @@ public class CH4_ArrayOFProductsOfAllElementsExceptItself {
    *
    * @param arr - int[]
    */
-  private static int[] findProduct(int[] arr) {
+  public static int[] findProduct(int[] arr) {
 
     int n = arr.length;
     int i, temp = 1;

@@ -27,12 +27,12 @@ public class TwoDimensionalArrays {
    * @param rows - int
    * @param columns - int
    */
-  private static int[][] create2DArray(int rows, int columns) {
+  public static int[][] create2DArray(int rows, int columns) {
 
     return new int[rows][columns]; // Create array
   }
 
-  private static void init2DArray(int row, int column, int value) {
+  public static void init2DArray(int row, int column, int value) {
     twoDArray[row][column] = value;
   }
 }

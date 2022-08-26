@@ -55,7 +55,7 @@ public class BinarySearchOnSortedArray_Recursive {
    * @param target - int
    * @return int
    */
-  private static int binarySearch(int[] nums, int target) {
+  public static int binarySearch(int[] nums, int target) {
     return binarySearchRecursive(nums, target, 0, nums.length - 1);
   }
 
@@ -72,7 +72,7 @@ public class BinarySearchOnSortedArray_Recursive {
    * @param high - int
    * @return int
    */
-  private static int binarySearchRecursive(int[] nums, int target, int low, int high) {
+  public static int binarySearchRecursive(int[] nums, int target, int low, int high) {
 
     if (low > high) {
       return -1;

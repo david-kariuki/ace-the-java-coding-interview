@@ -56,7 +56,7 @@ public class BitonicArrayMaximum {
    * @param nums - int[]
    * @return int
    */
-  private static int findMax(int[] nums) {
+  public static int findMax(int[] nums) {
 
     int start = 0;
     int end = nums.length - 1;

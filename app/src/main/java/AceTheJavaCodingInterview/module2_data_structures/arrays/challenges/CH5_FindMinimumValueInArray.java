@@ -39,7 +39,7 @@ public class CH5_FindMinimumValueInArray {
    *     linear time - O(n)
    * @param arr - int[]
    */
-  private static int findMinimum(int[] arr) {
+  public static int findMinimum(int[] arr) {
 
     int minimum = arr[0];
 
