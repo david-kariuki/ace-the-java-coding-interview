@@ -1,5 +1,5 @@
 /**
- * TripletsWithSmallerSum_ReturnCount Class
+ * TripletsWithSmallerSum_ReturnList Class
  *
  * <p>
  *
