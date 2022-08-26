@@ -70,6 +70,7 @@ public class Permutations {
    * @param nums - int[]
    * @return List<List<Integer>>
    */
+  @SuppressWarnings("ConstantConditions")
   public static List<List<Integer>> findPermutations(int[] nums) {
 
     List<List<Integer>> result = new ArrayList<>();
