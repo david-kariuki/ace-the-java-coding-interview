@@ -1,5 +1,5 @@
 /**
- * BitonicArrayMaximum_Easy Class
+ * BitonicArrayMaximum Class
  *
  * <p>
  *
@@ -33,9 +33,9 @@
  * @author David Kariuki
  * @since 24/8/2022
  */
-package AceTheJavaCodingInterview.module2_data_structures.arrays;
+package AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search;
 
-public class BitonicArrayMaximum_Easy {
+public class BitonicArrayMaximum {
 
   /**
    * Main method
@@ -44,10 +44,10 @@ public class BitonicArrayMaximum_Easy {
    */
   public static void main(String[] args) {
 
-    System.out.println(BitonicArrayMaximum_Easy.findMax(new int[] {1, 3, 8, 12, 4, 2}));
-    System.out.println(BitonicArrayMaximum_Easy.findMax(new int[] {3, 8, 3, 1}));
-    System.out.println(BitonicArrayMaximum_Easy.findMax(new int[] {1, 3, 8, 12}));
-    System.out.println(BitonicArrayMaximum_Easy.findMax(new int[] {10, 9, 8}));
+    System.out.println(BitonicArrayMaximum.findMax(new int[] {1, 3, 8, 12, 4, 2}));
+    System.out.println(BitonicArrayMaximum.findMax(new int[] {3, 8, 3, 1}));
+    System.out.println(BitonicArrayMaximum.findMax(new int[] {1, 3, 8, 12}));
+    System.out.println(BitonicArrayMaximum.findMax(new int[] {10, 9, 8}));
   }
 
   /**
@@ -56,12 +56,12 @@ public class BitonicArrayMaximum_Easy {
    * @param nums - int[]
    * @return int
    */
-  private static int findMax(int[] nums) {
+  public static int findMax(int[] nums) {
 
     int start = 0;
     int end = nums.length - 1;
 
-    while (start <= end) {
+    while (start < end) {
 
       int mid = start + ((end - start) / 2); // Calculate mid point
 

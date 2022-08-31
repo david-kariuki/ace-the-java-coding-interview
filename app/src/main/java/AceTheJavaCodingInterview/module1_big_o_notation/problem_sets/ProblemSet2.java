@@ -92,7 +92,7 @@ public class ProblemSet2 {
     /**
      * Question 5
      */
-    private void question5(int[] array) {
+    public void question5(int[] array) {
 
         for( int i=0; i<array.length; i++){
 
@@ -155,7 +155,7 @@ public class ProblemSet2 {
      * Question 8
      * @param n - int
      */
-    private void question8(int n) {
+    public void question8(int n) {
 
         /* Commenting due to duplicate int i declaration
         for (int j = 0; j < n; j++) {
@@ -179,7 +179,7 @@ public class ProblemSet2 {
      * @param n - int
      * @param m - int
      */
-    private void question9(int n, int m) {
+    public void question9(int n, int m) {
         for (int j = 0; j < n; j++) {
             for (int i = 0; i < m; i++) {
                 System.out.println("I have 2 loops");

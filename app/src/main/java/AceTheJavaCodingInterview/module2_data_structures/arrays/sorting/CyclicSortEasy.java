@@ -66,7 +66,7 @@ public class CyclicSortEasy {
    *
    * @param nums - int[]
    */
-  private static void sort(int[] nums) {
+  public static void sort(int[] nums) {
 
     int i = 0;
 
@@ -88,7 +88,7 @@ public class CyclicSortEasy {
    * @param i - int
    * @param j - int
    */
-  private static void swap(int[] arr, int i, int j) {
+  public static void swap(int[] arr, int i, int j) {
     int temp = arr[i];
     arr[i] = arr[j];
     arr[j] = temp;

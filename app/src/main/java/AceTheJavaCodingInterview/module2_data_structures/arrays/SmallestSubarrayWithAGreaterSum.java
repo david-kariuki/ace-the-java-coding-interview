@@ -1,5 +1,5 @@
 /**
- * SmallestSubarrayWithAGreaterSum_Easy Class
+ * SmallestSubarrayWithAGreaterSum Class
  *
  * <p>
  *
@@ -33,7 +33,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
-public class SmallestSubarrayWithAGreaterSum_Easy {
+public class SmallestSubarrayWithAGreaterSum {
 
   /**
    * Main method
@@ -51,7 +51,7 @@ public class SmallestSubarrayWithAGreaterSum_Easy {
   }
 
   /** Method to find min sub array */
-  private static int findMinSubArray(int S, int[] arr) {
+  public static int findMinSubArray(int S, int[] arr) {
 
     int windowSum = 0, minLength = Integer.MAX_VALUE;
     int windowStart = 0;

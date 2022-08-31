@@ -63,7 +63,7 @@ public class SearchRotatedArray_Recursive {
    * @param end - int
    * @param target - int
    */
-  private static int binarySearch(int[] nums, int start, int end, int target) {
+  public static int binarySearch(int[] nums, int start, int end, int target) {
 
     if (start > end) {
       return -1;

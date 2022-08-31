@@ -22,7 +22,7 @@ public class BigONestedLoopWithMultiplication {
 	 * @note Nested Loop with Multiplication (Basic) 1
 	 * Compute the Big O complexity of the code snippet given below.
 	 */
-	private static void withMultiplicationBasic1() {
+	public static void withMultiplicationBasic1() {
 
 		System.out.println("\n\n Starting Simple");
 
@@ -52,7 +52,7 @@ public class BigONestedLoopWithMultiplication {
 	 * @note Nested Loop with Multiplication (Basic) 2
 	 * Compute the Big O complexity of the code snippet given below.
 	 */
-	private static void withMultiplicationBasic2() {
+	public static void withMultiplicationBasic2() {
 
 		System.out.println("\n\n Starting Basic");
 
@@ -88,7 +88,7 @@ public class BigONestedLoopWithMultiplication {
 	 * @note Nested Loop with Multiplication (Intermediate)
 	 * Compute the Big O complexity of the code snippet given below.
 	 */
-	private static void withMultiplicationIntermediate() {
+	public static void withMultiplicationIntermediate() {
 
 		System.out.println("\n\n Starting Intermediate 1");
 
@@ -121,7 +121,7 @@ public class BigONestedLoopWithMultiplication {
 	 * @note Nested Loop with Multiplication (Advanced)
 	 * Compute the Big O complexity of the code snippet given below.
 	 */
-	private static void withMultiplicationAdvanced() {
+	public static void withMultiplicationAdvanced() {
 		int n = 10; //O(1)
 		int sum = 0; //O(1)
 		double pie = 3.14; //O(1)
@@ -144,7 +144,7 @@ public class BigONestedLoopWithMultiplication {
 	 * @note Nested Loop with Multiplication (Pro)
 	 * Compute the Big O complexity of the code snippet given below.
 	 */
-	private static void withMultiplicationPro() {
+	public static void withMultiplicationPro() {
 
 		int n = 10;   // O(1)
 		int sum = 0;  // O(1)

@@ -14,7 +14,7 @@ public class ProblemSet1 {
      * snippet will the algorithm execute a linear number of instructions? Insertion sort’s best-case running time
      * is linear (think running a single loop) and not quadratic.
      */
-    private void sort(int[] input) {
+    public void sort(int[] input) {
 
         for (int i = 1; i < input.length; i++) {
             int key = input[i];

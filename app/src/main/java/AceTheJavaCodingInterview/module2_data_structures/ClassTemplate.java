@@ -3,7 +3,11 @@
  *
  * <p>
  *
- * @question
+ * @question Problem Statement -
+ * @example
+ * @note Solution -
+ * @note Time Complexity -
+ * @note Space Complexity -
  * @author David Kariuki
  * @since /8/2022
  */

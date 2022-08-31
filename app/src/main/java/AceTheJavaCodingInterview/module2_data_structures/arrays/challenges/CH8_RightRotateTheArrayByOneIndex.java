@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * CH8_RightRotateTheArrayByOneIndex Class
  *
  * <p>
  *
@@ -42,7 +42,8 @@ public class CH8_RightRotateTheArrayByOneIndex {
    *     this solution is O(n).
    * @param arr - int[]
    */
-  private static void rotateArray(int[] arr) {
+  @SuppressWarnings("ManualArrayCopy")
+  public static void rotateArray(int[] arr) {
 
     int lastElement = arr[arr.length - 1]; // get last element
 

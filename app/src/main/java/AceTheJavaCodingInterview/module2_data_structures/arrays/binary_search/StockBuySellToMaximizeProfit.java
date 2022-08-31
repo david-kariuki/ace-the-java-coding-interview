@@ -1,5 +1,5 @@
 /**
- * ClassTemplate Class
+ * StockBuySellToMaximizeProfit Class
  *
  * <p>
  *
@@ -20,6 +20,7 @@ package AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search;
 import AceTheJavaCodingInterview.module2_data_structures.tuples.Tuple;
 import AceTheJavaCodingInterview.module2_data_structures.utils.DataStructuresUtils;
 
+@SuppressWarnings("UnusedAssignment")
 public class StockBuySellToMaximizeProfit {
 
   /**
@@ -91,9 +92,6 @@ public class StockBuySellToMaximizeProfit {
     }
 
     // Tuple having buy price and sell price
-    Tuple<Integer, Integer> result =
-        new Tuple<Integer, Integer>(global_sell - global_profit, global_sell);
-
-    return result;
+    return new Tuple<Integer, Integer>(global_sell - global_profit, global_sell);
   }
 }

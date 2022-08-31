@@ -1,5 +1,5 @@
 /**
- * SquaringASortedArray_Easy Class
+ * SquaringASortedArray Class
  *
  * <p>
  *
@@ -20,7 +20,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
-public class SquaringASortedArray_Easy {
+public class SquaringASortedArray {
 
   /**
    * Main method
@@ -28,11 +28,11 @@ public class SquaringASortedArray_Easy {
    * @param args - String[]
    */
   public static void main(String[] args) {
-    int[] result = SquaringASortedArray_Easy.makeSquares(new int[] {-2, -1, 0, 2, 3});
+    int[] result = SquaringASortedArray.makeSquares(new int[] {-2, -1, 0, 2, 3});
     for (int num : result) System.out.print(num + " ");
     System.out.println();
 
-    result = SquaringASortedArray_Easy.makeSquares(new int[] {-3, -1, 0, 1, 2});
+    result = SquaringASortedArray.makeSquares(new int[] {-3, -1, 0, 1, 2});
     for (int num : result) System.out.print(num + " ");
     System.out.println();
   }
@@ -43,7 +43,7 @@ public class SquaringASortedArray_Easy {
    * @param arr - int[]
    * @return int[]
    */
-  private static int[] makeSquares(int[] arr) {
+  public static int[] makeSquares(int[] arr) {
 
     int n = arr.length;
     int[] squares = new int[n];

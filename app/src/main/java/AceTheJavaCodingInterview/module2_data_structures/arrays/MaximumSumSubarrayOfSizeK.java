@@ -1,5 +1,5 @@
 /**
- * MaximumSumSubarrayOfSizeK_Easy Class
+ * MaximumSumSubarrayOfSizeK Class
  *
  * <p>
  *
@@ -24,7 +24,7 @@
  */
 package AceTheJavaCodingInterview.module2_data_structures.arrays;
 
-public class MaximumSumSubarrayOfSizeK_Easy {
+public class MaximumSumSubarrayOfSizeK {
 
   /**
    * Main method
@@ -41,7 +41,7 @@ public class MaximumSumSubarrayOfSizeK_Easy {
   }
 
   /** Method to find max sum sub array */
-  private static int findMaxSumSubArray(int k, int[] arr) {
+  public static int findMaxSumSubArray(int k, int[] arr) {
 
     int windowSum = 0;
     int maxSum = 0;

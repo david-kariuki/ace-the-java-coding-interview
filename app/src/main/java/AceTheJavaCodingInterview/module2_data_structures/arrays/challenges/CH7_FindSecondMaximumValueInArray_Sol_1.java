@@ -43,7 +43,7 @@ public class CH7_FindSecondMaximumValueInArray_Sol_1 {
    * O(n+ n) => O(n)
    * @param arr - int[] arr
    */
-  private static int findSecondMaximum(int[] arr) {
+  public static int findSecondMaximum(int[] arr) {
 
     int max = Integer.MIN_VALUE;
     int secondMax = Integer.MIN_VALUE;

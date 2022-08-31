@@ -74,7 +74,7 @@ public class MergeAnArrayWithOverlappingIntervals {
    * @param arrayList - ArrayList<Interval>
    * @return ArrayList<Interval>
    */
-  private static ArrayList<Interval> mergeIntervals(ArrayList<Interval> arrayList) {
+  public static ArrayList<Interval> mergeIntervals(ArrayList<Interval> arrayList) {
 
     // If the list is empty
     if (arrayList == null || arrayList.size() == 0) {
