@@ -1,6 +1,15 @@
 # AceTheJavaCodingInterview
 Java project to learn advanced Data Structures and Algorithms
 
+<br>
+
+![GitHub issues](https://img.shields.io/github/issues/david-kariuki/AceTheJavaCodingInterview?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge) &nbsp;
+![GitHub Contributions](https://img.shields.io/github/contributors/david-kariuki/AceTheJavaCodingInterview?&labelColor=black&color=8854d0&style=for-the-badge) &nbsp;
+![repo size](https://img.shields.io/github/repo-size/david-kariuki/AceTheJavaCodingInterview?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/david-kariuki/AceTheJavaCodingInterview?&labelColor=black&color=0fb9b1&style=for-the-badge) &nbsp;
+![GitHub stars](https://img.shields.io/github/stars/david-kariuki/AceTheJavaCodingInterview?&labelColor=black&color=f7b731&style=for-the-badge) &nbsp;
+![GitHub LastCommit](https://img.shields.io/github/last-commit/david-kariuki/AceTheJavaCodingInterview?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge) &nbsp;
+
 
 # Project Contents
 
