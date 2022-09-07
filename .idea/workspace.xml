@@ -4,17 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
-    <list id="ae46ed5c-9428-478d-a42f-255ba9fecbf4" name="bug" comment="fix: permutation&#10;&#10;fix permutation method" />
-    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="config" comment="chore: config&#10;&#10;add project configuration" />
-    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="docs" comment="docs: updated file&#10;&#10;update md file">
+    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38">
+      <changelist_data name="David Kariuki (DK)" email="dkaris.k@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" afterDir="false" />
     </list>
-    <list id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
+    <list id="ae46ed5c-9428-478d-a42f-255ba9fecbf4" name="bug" comment="fix: permutation&#10;&#10;fix permutation method" />
+    <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="config" comment="chore: config&#10;&#10;modify project configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="docs" comment="docs: updated file&#10;&#10;update md file">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/hash_tables/_hash_tables.md" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/_array_interview_questions.md" afterDir="false" />
+    </list>
+    <list id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/CeilingOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/ConflictingAppointments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/MinimumDifferenceElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/NextLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/NumberRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/array/SearchInASortedInfiniteArray.java" afterDir="false" />
+    </list>
     <list id="7d47c9e0-bea8-4034-aabb-f2bf018a3cbc" name="fix" comment="fix: &#10;&#10;" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="refactoring" comment="refactor: refactor&#10;&#10;refactor package names" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +67,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -87,6 +108,35 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="6" end1="7" start2="6" end2="13" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="8" end1="11" start2="14" end2="15" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="13" end1="14" start2="17" end2="29" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="16" end1="17" start2="31" end2="32" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="55" end1="55" start2="70" end2="77" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="90" end1="90" start2="112" end2="140" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="138" end1="139" start2="188" end2="189" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="140" end1="141" start2="190" end2="191" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="144" end1="145" start2="194" end2="195" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="153" end1="154" start2="203" end2="204" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="157" end1="158" start2="207" end2="208" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="166" end1="167" start2="216" end2="217" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="170" end1="171" start2="220" end2="221" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="179" end1="180" start2="229" end2="230" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="183" end1="184" start2="233" end2="234" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="192" end1="193" start2="242" end2="243" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="196" end1="197" start2="246" end2="247" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="206" end1="211" start2="256" end2="261" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="228" end1="271" start2="278" end2="279" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="575" end1="576" start2="583" end2="627" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="599" end1="600" start2="650" end2="650" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+        <range start1="620" end1="621" start2="670" end2="670" changelist="2ba4749a-a363-4d1c-b99b-337f7e342307" />
+        <range start1="624" end1="625" start2="673" end2="676" changelist="c6cd90a1-81ca-43ac-9545-e77e106ae078" />
+      </ranges>
+    </file>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="89yls38e" />
@@ -136,13 +186,13 @@
       <recent name="AceTheJavaCodingInterview.module2_data_structures.tupples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubArraysWithProductLessThanTarget">
+  <component name="RunManager" selected="Application.AceTheJavaCodingInterview.module2_data_structures.array.SubArraysWithProductLessThanTarget">
     <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.OrderAgnosticBinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.OrderAgnosticBinarySearch" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +201,11 @@
       </method>
     </configuration>
     <configuration name="SearchRotatedArray_Iteratively" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.SearchRotatedArray_Iteratively" />
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.SearchRotatedArray_Iteratively" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +214,11 @@
       </method>
     </configuration>
     <configuration name="SearchRotatedArray_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.SearchRotatedArray_Recursive" />
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.SearchRotatedArray_Recursive" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +227,11 @@
       </method>
     </configuration>
     <configuration name="StockBuySellToMaximizeProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.StockBuySellToMaximizeProfit" />
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.StockBuySellToMaximizeProfit" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.binary_search.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.array.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +240,11 @@
       </method>
     </configuration>
     <configuration name="SubArraysWithProductLessThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.arrays.SubArraysWithProductLessThanTarget" />
+      <option name="MAIN_CLASS_NAME" value="AceTheJavaCodingInterview.module2_data_structures.array.SubArraysWithProductLessThanTarget" />
       <module name="AceTheJavaCodingInterview.app.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.arrays.*" />
+          <option name="PATTERN" value="AceTheJavaCodingInterview.module2_data_structures.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubArraysWithProductLessThanTarget" />
-        <item itemvalue="Application.StockBuySellToMaximizeProfit" />
-        <item itemvalue="Application.SearchRotatedArray_Recursive" />
-        <item itemvalue="Application.SearchRotatedArray_Iteratively" />
-        <item itemvalue="Application.OrderAgnosticBinarySearch" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.array.SubArraysWithProductLessThanTarget" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.array.binary_search.StockBuySellToMaximizeProfit" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.array.binary_search.SearchRotatedArray_Recursive" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.array.binary_search.SearchRotatedArray_Iteratively" />
+        <item itemvalue="Application.AceTheJavaCodingInterview.module2_data_structures.array.binary_search.OrderAgnosticBinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -226,49 +276,7 @@
       <workItem from="1661751056208" duration="1330000" />
       <workItem from="1662531641995" duration="1753000" />
       <workItem from="1662536086470" duration="1669000" />
-      <workItem from="1662539228801" duration="338000" />
-    </task>
-    <task id="LOCAL-00047" summary="feat: array subset&#10;&#10;add code to find all distinct subsets of an array with duplicates">
-      <created>1661321492130</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1661321492130</updated>
-    </task>
-    <task id="LOCAL-00048" summary="feat: order agnostic binary search&#10;&#10;add code to search for a key in an ascending array using order agnostic binary search">
-      <created>1661323010282</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1661323010282</updated>
-    </task>
-    <task id="LOCAL-00049" summary="feat: updated file&#10;&#10;update readme file">
-      <created>1661323050430</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1661323050430</updated>
-    </task>
-    <task id="LOCAL-00050" summary="feat: bitonic array maximum&#10;&#10;add code to find the maximum element in a bitonic array">
-      <created>1661325113167</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1661325113168</updated>
-    </task>
-    <task id="LOCAL-00051" summary="chore: config&#10;&#10;add project configuration">
-      <created>1661325396382</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1661325396382</updated>
-    </task>
-    <task id="LOCAL-00052" summary="feat: updated file&#10;&#10;update readme file">
-      <created>1661325616821</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1661325616822</updated>
+      <workItem from="1662539228801" duration="3871000" />
     </task>
     <task id="LOCAL-00053" summary="chore: config&#10;&#10;add project configuration">
       <created>1661325626788</created>
@@ -573,7 +581,50 @@
       <option name="project" value="LOCAL" />
       <updated>1662533841563</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="docs: updated file&#10;&#10;update md file">
+      <created>1662539663734</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1662539663735</updated>
+    </task>
+    <task id="LOCAL-00097" summary="docs: updated file&#10;&#10;update md file">
+      <created>1662539713981</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1662539713981</updated>
+    </task>
+    <task id="LOCAL-00098" summary="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target">
+      <created>1662543333933</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1662543333933</updated>
+    </task>
+    <task id="LOCAL-00099" summary="refactor: refactor&#10;&#10;refactor package names">
+      <created>1662544263581</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1662544263581</updated>
+    </task>
+    <task id="LOCAL-00100" summary="config">
+      <changelist id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="config" comment="chore: config&#10;&#10;add project configuration" />
+      <created>1662544311753</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1662544311753</updated>
+    </task>
+    <task id="LOCAL-00101" summary="refactor: refactor&#10;&#10;refactor package names">
+      <created>1662544336849</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1662544336849</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -597,7 +648,6 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)" />
     <MESSAGE value="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all distinct subsets of an array with duplicates" />
@@ -618,11 +668,12 @@
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count" />
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets" />
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count of the triplets&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
-    <MESSAGE value="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
     <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <MESSAGE value="docs: updated file&#10;&#10;update md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: updated file&#10;&#10;update md file" />
+    <MESSAGE value="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
+    <MESSAGE value="refactor: refactor&#10;&#10;refactor package names" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor&#10;&#10;refactor package names" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
