@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
+    <list default="true" id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <list id="ae46ed5c-9428-478d-a42f-255ba9fecbf4" name="bug" comment="fix: permutation&#10;&#10;fix permutation method" />
-    <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="config" comment="chore: config&#10;&#10;add project configuration" />
     <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="docs" comment="docs: updated file&#10;&#10;update md file">
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
     <list id="7d47c9e0-bea8-4034-aabb-f2bf018a3cbc" name="fix" comment="fix: &#10;&#10;" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
     <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
@@ -105,25 +105,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Project.color": "1c014d",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "E:/Dev/Projects/Noti/mobile_backend",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;1c014d&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Dev/Projects/Learning/Java/AceTheJavaCodingInterview&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Dev\Projects\Learning\Java\AceTheJavaCodingInterview\app\src\main\java\AceTheJavaCodingInterview\module2_data_structures\arrays\binary_search" />
@@ -224,14 +224,9 @@
       <workItem from="1660729074231" duration="7457000" />
       <workItem from="1660802034664" duration="17041000" />
       <workItem from="1661751056208" duration="1330000" />
-      <workItem from="1662531641995" duration="1131000" />
-    </task>
-    <task id="LOCAL-00046" summary="refactor: refactor&#10;&#10;perform minor refactoring">
-      <created>1661320138829</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1661320138829</updated>
+      <workItem from="1662531641995" duration="1753000" />
+      <workItem from="1662536086470" duration="1669000" />
+      <workItem from="1662539228801" duration="338000" />
     </task>
     <task id="LOCAL-00047" summary="feat: array subset&#10;&#10;add code to find all distinct subsets of an array with duplicates">
       <created>1661321492130</created>
@@ -571,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661520514999</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="docs: updated file&#10;&#10;update md file">
+      <created>1662533841562</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1662533841563</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -616,11 +618,11 @@
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count" />
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets" />
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count of the triplets&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
-    <MESSAGE value="docs: updated file&#10;&#10;update md file" />
     <MESSAGE value="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
     <MESSAGE value="chore: config&#10;&#10;add project configuration" />
     <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <MESSAGE value="docs: updated file&#10;&#10;update md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: updated file&#10;&#10;update md file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
