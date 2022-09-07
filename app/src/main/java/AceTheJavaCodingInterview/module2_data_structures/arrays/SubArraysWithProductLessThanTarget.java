@@ -21,8 +21,11 @@
  *     <p>In this problem, the input array is not sorted. Instead of finding triplets with sum less
  *     than a target, we need to find all sub-arrays having a product less than the target. The
  *     implementation will be quite similar to Triplets with Smaller Sum.
- * @note Time Complexity -
- * @note Space Complexity -
+ * @note Time Complexity - The main for-loop managing the sliding window takes O(N) but creating
+ *     sub-arrays can take up to O(N^2) in the worst case. Therefore overall, our algorithm will
+ *     take O(N^3).
+ * @note Space Complexity - Ignoring the space required for the output list, the algorithm runs in
+ *     O(N) space which is used for the temp list.
  * @author David Kariuki
  * @since 26/8/2022
  * @see AceTheJavaCodingInterview.module2_data_structures.arrays.TripletsWithSmallerSum_ReturnCount
