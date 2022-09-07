@@ -4,21 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/SubArraysWithProductLessThanTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a504d89a-f171-4573-83c4-bd9e6b0036d0" name="feat" comment="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
     <list id="ae46ed5c-9428-478d-a42f-255ba9fecbf4" name="bug" comment="fix: permutation&#10;&#10;fix permutation method" />
     <list id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="changes" comment="feat(package): add code to find the smallest common number&#10;&#10;Given 3 int arrays sorted in asc order, return the smallest number found in all three arrays&#10;&#10;closes #38" />
     <list id="2ba4749a-a363-4d1c-b99b-337f7e342307" name="config" comment="chore: config&#10;&#10;add project configuration" />
-    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="docs" comment="docs: updated file&#10;&#10;update md file" />
+    <list id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="docs" comment="docs: updated file&#10;&#10;update md file">
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="7d47c9e0-bea8-4034-aabb-f2bf018a3cbc" name="fix" comment="fix: &#10;&#10;" />
     <list id="ef692923-6f0b-4f28-8f22-a56c94422040" name="Minor changes" comment="Minor changes" />
-    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/ClassTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum_ReturnList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/AceTheJavaCodingInterview/module2_data_structures/arrays/TripletsWithSmallerSum_ReturnList.java" afterDir="false" />
-    </list>
+    <list id="6d3f09a0-63e1-48ce-9951-ab9c32aba3c4" name="refactoring" comment="refactor: refactor&#10;&#10;perform minor refactoring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +214,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="Default" summary="Default task">
+    <task active="true" id="Default" summary="Default task">
       <changelist id="c6cd90a1-81ca-43ac-9545-e77e106ae078" name="Changes" comment="Fix merge conflicts" />
       <created>1660052882094</created>
       <option name="number" value="Default" />
@@ -227,28 +223,8 @@
       <workItem from="1660728773037" duration="256000" />
       <workItem from="1660729074231" duration="7457000" />
       <workItem from="1660802034664" duration="17041000" />
-    </task>
-    <task id="LOCAL-00043" summary="ReadMe">
-      <changelist id="5cd8dfbc-67cf-4aa9-94a4-8500dee0ca36" name="ReadMe" comment="feat: updated file&#10;&#10;update readme file" />
-      <created>1661262977289</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1661262977289</updated>
-    </task>
-    <task id="LOCAL-00044" summary="feat: updated file&#10;&#10;update readme file">
-      <created>1661262987222</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1661262987222</updated>
-    </task>
-    <task id="LOCAL-00045" summary="chore: config&#10;&#10;add project configuration">
-      <created>1661263007135</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1661263007135</updated>
+      <workItem from="1661751056208" duration="1330000" />
+      <workItem from="1662531641995" duration="1131000" />
     </task>
     <task id="LOCAL-00046" summary="refactor: refactor&#10;&#10;perform minor refactoring">
       <created>1661320138829</created>
@@ -574,7 +550,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661501098650</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target">
+      <created>1661520498162</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1661520498162</updated>
+    </task>
+    <task id="LOCAL-00093" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661520505449</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1661520505449</updated>
+    </task>
+    <task id="LOCAL-00094" summary="refactor: refactor&#10;&#10;perform minor refactoring">
+      <created>1661520514999</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1661520514999</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <option name="trackContextForNewChangelist" value="true" />
     <servers />
   </component>
@@ -598,7 +595,6 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <confirmRemoveEmptyChangelist value="1" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="feat: sum of maximum sub array&#10;&#10;add code to perform maximum sum subarray of size K (easy)" />
     <MESSAGE value="feat: sum of smallest subarray&#10;&#10;add code to get smallest subarray with a greater sum (easy)" />
     <MESSAGE value="feat: square sorted array&#10;&#10;add code to square a sorted array (easy)" />
     <MESSAGE value="feat: array subset&#10;&#10;add code to find all of an arrays distinct subsets" />
@@ -620,10 +616,11 @@
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count" />
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return a list with the triplets" />
     <MESSAGE value="feat: triplets with smaller sum&#10;&#10;add class with code to search for triplets with smaller sum and return count of the triplets&#10;&#10;Signed-off-by: dk &lt;workplace.davidkariuki@gmail.com&gt;" />
-    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
-    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
     <MESSAGE value="docs: updated file&#10;&#10;update md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: updated file&#10;&#10;update md file" />
+    <MESSAGE value="feat: sub-arrays with product less than a target&#10;&#10;add class with code to search sub-arrays with product less than a target" />
+    <MESSAGE value="chore: config&#10;&#10;add project configuration" />
+    <MESSAGE value="refactor: refactor&#10;&#10;perform minor refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: refactor&#10;&#10;perform minor refactoring" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
