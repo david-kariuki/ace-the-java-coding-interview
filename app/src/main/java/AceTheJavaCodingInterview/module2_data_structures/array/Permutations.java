@@ -9,9 +9,9 @@
  *     <p>{1, 2, 3} {1, 3, 2} {2, 1, 3} {2, 3, 1} {3, 1, 2} {3, 2, 1}
  *     <p>If a set has n distinct elements it will have n! n! permutations.
  * @note Solution This problem follows the Subsets pattern ({@link
- *     AceTheJavaCodingInterview.module2_data_structures.arrays.Subset}) and, we can follow a
- *     similar Breadth First Search (BFS) approach. However, unlike Subsets, every permutation must
- *     contain all the numbers.
+ *     AceTheJavaCodingInterview.module2_data_structures.array.Subset}) and, we can follow a similar
+ *     Breadth First Search (BFS) approach. However, unlike Subsets, every permutation must contain
+ *     all the numbers.
  *     <p>Let’s take the example-1 mentioned above to generate all the permutations. Following a BFS
  *     approach, we will consider one number at a time:
  *     <p>1. If the given set is empty then we have only an empty permutation set: []

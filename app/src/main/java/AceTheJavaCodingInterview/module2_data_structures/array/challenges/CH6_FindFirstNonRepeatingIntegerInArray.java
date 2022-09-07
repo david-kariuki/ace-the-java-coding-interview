@@ -3,9 +3,8 @@
  *
  * <p>
  *
- * @note Given an array, find the first integer, which is unique in the array.
- * Unique means the number does not repeat and appears only once in the
- * whole array.
+ * @note Given an array, find the first integer, which is unique in the array. Unique means the
+ *     number does not repeat and appears only once in the whole array.
  * @author David Kariuki
  * @since 16/8/2022
  */

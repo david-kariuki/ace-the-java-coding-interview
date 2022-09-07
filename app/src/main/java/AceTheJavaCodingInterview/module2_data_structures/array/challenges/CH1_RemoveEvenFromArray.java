@@ -3,8 +3,8 @@
  *
  * <p>
  *
- * @note Challenge 1: Remove Even Integers from an Array.
- * Given an array of size n, remove all even integers from it.
+ * @note Challenge 1: Remove Even Integers from an Array. Given an array of size n, remove all even
+ *     integers from it.
  * @author David Kariuki
  * @since 14/8/2022
  */

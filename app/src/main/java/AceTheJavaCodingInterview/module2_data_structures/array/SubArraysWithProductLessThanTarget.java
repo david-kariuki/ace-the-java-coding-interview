@@ -22,8 +22,8 @@
  *     than a target, we need to find all sub-array having a product less than the target. The
  *     implementation will be quite similar to Triplets with Smaller Sum.
  * @note Time Complexity - The main for-loop managing the sliding window takes O(N) but creating
- *     sub-arrays can take up to O(N^2) in the worst case. Therefore overall, our algorithm will
- *     take O(N^3).
+ *     sub-array can take up to O(N^2) in the worst case. Therefore overall, our algorithm will take
+ *     O(N^3).
  * @note Space Complexity - Ignoring the space required for the output list, the algorithm runs in
  *     O(N) space which is used for the temp list.
  * @author David Kariuki
