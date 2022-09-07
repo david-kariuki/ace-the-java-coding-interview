@@ -14,10 +14,9 @@
  * @note Solution - This problem follows the Sliding Window and the Two Pointers pattern and shares
  *     similarities with Triplets with Smaller Sum
  *     <p>({@link
- *     AceTheJavaCodingInterview.module2_data_structures.array.TripletsWithSmallerSum_ReturnCount},
- *     {@link
- *     AceTheJavaCodingInterview.module2_data_structures.array.TripletsWithSmallerSum_ReturnList})
- *     with two differences:
+ *     AceTheJavaCodingInterview.data_structures.array.TripletsWithSmallerSum_ReturnCount}, {@link
+ *     AceTheJavaCodingInterview.data_structures.array.TripletsWithSmallerSum_ReturnList}) with two
+ *     differences:
  *     <p>In this problem, the input array is not sorted. Instead of finding triplets with sum less
  *     than a target, we need to find all sub-array having a product less than the target. The
  *     implementation will be quite similar to Triplets with Smaller Sum.

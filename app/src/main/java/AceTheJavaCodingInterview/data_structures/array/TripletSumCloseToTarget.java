@@ -8,8 +8,7 @@
  *     of the triplet. If there are more than one such triplet, return the sum of the triplet with
  *     the smallest sum.
  * @note Solution - This problem follows the Two Pointers pattern and is quite similar to Triplet
- *     Sum to Zero({@link
- *     AceTheJavaCodingInterview.module2_data_structures.array.TripletSumToZero}).
+ *     Sum to Zero({@link AceTheJavaCodingInterview.data_structures.array.TripletSumToZero}).
  *     <p>We can follow a similar approach to iterate through the array, taking one number at a
  *     time. At every step, we will save the difference between the triplet and the target number,
  *     so that in the end, we can return the triplet with the closest sum.
