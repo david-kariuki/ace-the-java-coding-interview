@@ -4,7 +4,9 @@
  * <p>
  *
  * @question Problem Statement -
- * @example
+ * @example Example 1:
+ * @example Example 2:
+ * @example Example 3:
  * @note Solution -
  * @note Time Complexity -
  * @note Space Complexity -
