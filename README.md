@@ -30,8 +30,10 @@ Java project to learn advanced Data Structures and Algorithms
     - Cheat Sheet
   
 <br><br>
-## 2. Data Structures
-    a. Arrays
+## 2. DAT STRUCTURES
+
+    a. ARRAYS
+    
         . Two Dimensional Arrays.
         . Challenge 1: Remove Even Integers from an Array
         . Challenge 2: Merge Two Sorted Arrays
@@ -63,7 +65,9 @@ Java project to learn advanced Data Structures and Algorithms
         . Bitonic Array Maximum (easy)
         .
 
-    b. LinkedLists
+
+    b. LINKED LISTS
+    
         . Introduction to Linked Lists
         . Basic Linked List Operations
         . Insertion in a Singly Linked List
@@ -104,7 +108,8 @@ Java project to learn advanced Data Structures and Algorithms
         . Linked list Interview Questions
 
 
-    c. Strings
+    c. STRINGS
+    
         . String: Common Methods & Operations
         . Reverse Words in a Sentence
         . Remove Duplicates from a String
@@ -132,7 +137,7 @@ Java project to learn advanced Data Structures and Algorithms
         . Generate all Combinations of Balanced Parentheses
         
         
-    d. Stacks and Queues    
+    d. STACKS and QUEUES  
 
         . Introduction to Stacks & Queues
         . Stack (Implementation)
@@ -162,7 +167,8 @@ Java project to learn advanced Data Structures and Algorithms
         . Stack/Queue Interview Questions
         
         
-    e. Trees
+    e. TREES
+    
         . Introduction to Trees
         . Implementation of Binary Tree
         . Check if Two Binary Trees are Identical
@@ -183,7 +189,8 @@ Java project to learn advanced Data Structures and Algorithms
         . Convert N-ary Tree to Binary Tree
         
         
-    f. Trie
+    f. TRIE
+    
         . Introduction to Tries
         . Insertion in a Trie
         . Search in a Trie
@@ -200,7 +207,8 @@ Java project to learn advanced Data Structures and Algorithms
         . Trie Interview Questions
         
         
-    g. Heaps
+    g. HEAPS
+    
         . Introduction to Heaps
         . Heap Representation in Arrays
         . Max Heap: Introduction
@@ -216,7 +224,8 @@ Java project to learn advanced Data Structures and Algorithms
         . Heap Interview Questions
         
         
-    h. Hash Tables
+    h. HASH TABLES
+    
         . Introduction to Hash Tables
         . Trie vs Hash Table
         . HashMap vs HashSet
@@ -243,7 +252,8 @@ Java project to learn advanced Data Structures and Algorithms
         . Hashing Interview Questions
         
         
-    i. Graphs
+    i. GRAPHS
+    
         . Introduction to Graphs
         . Graph Implementation
         . What is a Bipartite Graph?
