@@ -30,7 +30,7 @@ Java project to learn advanced Data Structures and Algorithms
     - Cheat Sheet
   
 <br><br>
-## 2. DAT STRUCTURES
+## 2. DATA STRUCTURES
 
     a. ARRAYS
     
