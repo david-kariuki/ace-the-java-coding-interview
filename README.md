@@ -1,4 +1,4 @@
-# AceTheJavaCodingInterview
+# Ace The Java Coding Interview
 Java project to learn advanced Data Structures and Algorithms
 
 <br>
